@@ -67,6 +67,9 @@ Developed an enterprise-grade AI system to detect weak signals in complex multi-
 - Business Intelligence & Visualization
 - Cross-functional Collaboration
 
+**Impact:**  
+vision 360° client, meilleure segmentation, amélioration du ciblage, scoring automatisé, optimisation de la prospection, génération de leads qualifiés.
+
 </details>
 
 </td>
@@ -108,9 +111,6 @@ Built a complete MLOps pipeline to predict equipment failures 24 hours in advanc
 - Pipeline Orchestration
 - Model Evaluation & Optimization
 - Feature Engineering
-
-**Application to Biomedical:**  
-Predictive modeling approach applicable to forecasting biological events and cellular anomalies.
 
 </details>
 
