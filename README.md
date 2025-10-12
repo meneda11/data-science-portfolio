@@ -76,7 +76,7 @@ vision 360° client, meilleure segmentation, amélioration du ciblage, scoring a
 
 ### ⚙️ Industrial Predictive Maintenance
 
-**Domain:** Predictive Analytics | **Type:** Personal Project | **Date:** 04/2025 - 06/2025
+**Domain:** Predictive Analytics | **Type:** School Project | **Date:** 04/2025 - 06/2025
 
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#predictive-maintenance-details)
 
