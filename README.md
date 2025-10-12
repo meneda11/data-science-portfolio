@@ -27,6 +27,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 ## 🤖 AI & Machine Learning Projects
 
 ### 🎯 Business Signal Detection and Recommendation engine with AI
+
 **Domain:** AI/ML | **Type:** Professional Project | **Date:** 2025
 
 <details>
@@ -64,6 +65,7 @@ Developed an enterprise-grade AI system to detect weak signals in complex multi-
 ---
 
 ### ⚙️ Industrial Predictive Maintenance
+
 **Domain:** Predictive Analytics | **Type:** Personal Project | **Date:** 04/2025 - 06/2025
 
 <details>
