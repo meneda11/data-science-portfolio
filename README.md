@@ -33,26 +33,33 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 <summary><b>📖 View Details</b></summary>
 
 **Context:**  
-Developed an AI-based system using Azure AI Search and GPT to analyze client interactions and identify potential business opportunities.
+Developed an enterprise-grade AI system to detect weak signals in complex multi-source data, enabling early anomaly detection and intelligent predictive recommendations.
 
 **Key Achievements:**
-- ✅ Built **Azure Lakehouse architecture** for multi-source data integration (CRM, SQL, web, documents)
+- ✅ Built **Microsoft Fabric Lakehouse architecture** for multi-source data integration (Dynamics 365 CRM, SQL, web, documents)
 - ✅ Developed **AI-powered recommendation engine** using Azure OpenAI
 - ✅ Implemented **semantic vectorization and predictive scoring**
-- ✅ Created **interactive dashboards** for real-time insights
+- ✅ Created **interactive Power BI dashboards** for real-time insights
+- ✅ Enabled **cross-team collaboration** via Microsoft Teams integration
 
 **Tech Stack:**
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-002050?style=flat&logo=dynamics-365&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Microsoft Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Skills Demonstrated:**
 - Cloud Architecture (Azure Data Factory, Databricks, Synapse)
+- Microsoft Fabric Lakehouse Design
 - Feature Engineering & Model Development
 - Semantic Search & Vector Databases
+- Business Intelligence & Visualization
 - Cross-functional Collaboration
-  
+
+</details>
 ---
 
 ### ⚙️ Industrial Predictive Maintenance
@@ -62,25 +69,32 @@ Developed an AI-based system using Azure AI Search and GPT to analyze client int
 <summary><b>📖 View Details</b></summary>
 
 **Context:**  
-Built a machine learning pipeline to predict equipment failures 24 hours in advance, enabling proactive maintenance strategies.
+Built a complete MLOps pipeline to predict equipment failures 24 hours in advance, enabling proactive maintenance strategies with automated deployment and monitoring.
 
 **Key Achievements:**
 - ✅ Developed **ensemble ML models** (XGBoost, Random Forest, SVM, Logistic Regression)
 - ✅ Achieved **90%+ prediction accuracy** (AUC, F1-score optimization)
-- ✅ Implemented **hyperparameter tuning** and cross-validation
-- ✅ Created **interpretable feature importance analysis**
+- ✅ Implemented **hyperparameter tuning** with Weights & Biases tracking
+- ✅ Created **automated CI/CD pipeline** with Docker and Airflow
+- ✅ Built **interpretable feature importance analysis**
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/-Weights%20&%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Skills Demonstrated:**
-- Supervised Learning
+- Supervised Learning & Ensemble Methods
+- MLOps & Model Deployment
+- Experiment Tracking & Versioning
+- Pipeline Orchestration
 - Model Evaluation & Optimization
 - Feature Engineering
-- Risk Prediction Modeling
 
 **Application to Biomedical:**  
 Predictive modeling approach applicable to forecasting biological events and cellular anomalies.
@@ -91,30 +105,35 @@ Predictive modeling approach applicable to forecasting biological events and cel
 
 ## 🧬 Bioinformatics Projects
 
-### 🔬 Multiplex PCR Data Analysis & Modeling
+### 🔬 Single PCR Data Analysis & Modeling
 **Domain:** Bioinformatics | **Type:** Personal Project | **Date:** 05/2024 - 08/2024
 
 <details>
 <summary><b>📖 View Details</b></summary>
 
 **Context:**  
-Developed a comprehensive pipeline for analyzing simulated multiplex PCR data to understand biological signal amplification and DNA quantification.
+Developed a comprehensive pipeline for analyzing simulated single PCR data to understand biological signal amplification and DNA quantification.
 
 **Key Achievements:**
 - ✅ Built **automated Python pipeline** for PCR data processing
 - ✅ Analyzed **Cq values, standard curves, and PCR efficiency**
 - ✅ Created **visualization tools** for biological signal interpretation
 - ✅ Simulated and compared multiple PCR datasets
+- ✅ Applied **machine learning models** for predictive analysis
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **Skills Demonstrated:**
 - Biological Data Analysis
 - Signal Processing
 - Statistical Modeling
+- Machine Learning
 - Scientific Visualization
 
 **Impact:**  
