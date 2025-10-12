@@ -24,7 +24,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 
 ---
 
-## 🤖 AI & Machine Learning Projects
+## 🤖 AI & Machine Learning
 
 <table>
 <tr>
