@@ -16,7 +16,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 
 ---
 
-## 📌 Table of Contents
+## 📌 Table of Contents Projects
 - [🤖 AI & Machine Learning](#-ai--machine-learning)
 - [📊 Business Intelligence & Web Analytics & CRM](#-business-intelligence--web-analytics--crm)
 - [🔧 Data Engineering](#-data-engineering)
