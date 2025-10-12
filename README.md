@@ -376,33 +376,43 @@ Similar approach to modeling complex biological processes: signal collection, dr
 
 ## 🛠️ Complete Tech Stack
 
-### Cloud & Data Platforms
+### ☁️ Cloud & Data Platforms
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Synapse](https://img.shields.io/badge/-Synapse-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
 
-### Machine Learning & AI
+### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-### Business Intelligence
+### 📊 Business Intelligence & Analytics
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Matomo](https://img.shields.io/badge/-Matomo-3152A0?style=flat&logo=matomo&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-### Databases
+### 🗄️ Databases & CRM
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-002050?style=flat&logo=dynamics-365&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Tools & Libraries
+### 🔧 DevOps & MLOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/-W&B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+
+### 📚 Libraries & Tools
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
 
