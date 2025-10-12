@@ -17,10 +17,11 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 ---
 
 ## 📌 Table of Contents
-- [🤖 AI & Machine Learning Projects](#-ai--machine-learning-projects)
-- [🔧 Data Engineering Projects](#-data-engineering-projects)
-- [🧬 Bioinformatics Projects](#-bioinformatics-projects)
-- [🛠️ Tech Stack](#️-tech-stack)
+- [🤖 AI & Machine Learning](#-ai--machine-learning)
+- [📊 Business Intelligence & Analytics](#-business-intelligence--analytics)
+- [🔧 Data Engineering & CRM](#-data-engineering--crm)
+- [🧬 Bioinformatics](#-bioinformatics)
+- [🛠️ Complete Tech Stack](#️-complete-tech-stack)
 
 ---
 
@@ -175,6 +176,164 @@ Collaborated with researchers to develop an AI-powered system for monitoring bee
 
 **Impact:**  
 Early detection of colony health issues, contributing to bee conservation efforts.
+
+</details>
+
+---
+
+## 📊 Business Intelligence & Web Analytics
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Web Analytics & Tracking  
+
+**Matomo • Power BI • Google Analytics • Dynamics 365**
+
+End-to-end web tracking and digital performance optimization.  
+
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#web-analytics-details)
+
+<details id="web-analytics-details">
+<summary><b>📖 View Details</b></summary>
+
+**Domain:** Web Analytics & BI | **Type:** Professional Project | **Date:** 2025  
+
+#### 🧩 Context  
+Implemented a complete web tracking infrastructure using **Matomo** to analyze website activity — from tag setup to data collection and reporting — enabling **data-driven digital optimization**.
+
+#### 🏆 Key Achievements  
+✅ Configured custom tags, triggers, and variables for visitor tracking  
+✅ Analyzed user behavior: traffic sources, acquisition channels, most visited pages, services consulted, devices, and geo-origin  
+✅ Built **Power BI dashboards** for web traffic, visitor count, average session, bounce rate, and engagement  
+✅ Studied user journeys and proposed optimization recommendations  
+✅ Ensured **GDPR compliance** and tracking reliability  
+✅ Integrated multiple data sources (**Matomo, Google Analytics, Dynamics 365**)  
+
+#### 🛠️ Tech Stack  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Matomo_Logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Google_Analytics_logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Dynamics_365_Logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"> 
+
+#### 💡 Skills Demonstrated  
+- Web Analytics & Tag Management  
+- User Behavior Analysis  
+- Dashboard Design & Visualization  
+- Digital Marketing Analytics  
+- GDPR Compliance  
+- Cross-functional Collaboration  
+
+#### 💼 Business Impact  
+- Improved visibility on digital performance  
+- Enhanced understanding of user behavior  
+- Data-driven marketing strategy alignment  
+- Better targeting and lead generation  
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 Marketing Data Intelligence  
+
+**Power BI • Azure AI • Dynamics 365 • GPT Models**
+
+Marketing dashboards, NPS analysis, and AI-powered business signal detection.  
+
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#marketing-intelligence-details)
+
+<details id="marketing-intelligence-details">
+<summary><b>📖 View Details</b></summary>
+
+**Domain:** Marketing Analytics | **Type:** Professional Project | **Date:** 2025  
+
+#### 🧩 Context  
+Leveraged marketing and sales data to generate **actionable insights** through KPIs and dashboards, optimized CRM operations, and implemented **AI-based business signal detection**.  
+
+#### 🏆 Key Achievements  
+✅ Designed **marketing dashboards** for newsletters, satisfaction, campaigns, and B2B prospecting  
+✅ Analyzed **customer satisfaction surveys (NPS, CSAT)**  
+✅ Identified improvement areas through satisfaction analysis  
+✅ Documented all metrics and calculations for transparency  
+✅ Implemented **AI-powered signal detection** using **Azure AI Search** and **GPT models**  
+✅ Integrated multi-source data: Dynamics 365, Matomo, Google Analytics  
+
+#### 🛠️ Tech Stack  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Dynamics_365_Logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Google_Analytics_logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Matomo_Logo.svg" width="50"> 
+
+#### 💡 Skills Demonstrated  
+- Marketing Analytics & KPI Design  
+- Customer Satisfaction Analysis (NPS, CSAT)  
+- Advanced DAX & Power Query M  
+- AI-Powered Business Intelligence  
+- Campaign Performance Analysis  
+- Data Governance  
+
+#### 💼 Business Impact  
+- Improved marketing decisions through data  
+- Enhanced satisfaction monitoring  
+- Actionable insights for managers  
+- Stronger campaign performance  
+
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗄️ CRM Data Quality & Automation  
+**Python • Dynamics 365 • Power BI • Azure Logic Apps**
+
+Automated CRM cleaning and data quality optimization.  
+
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#crm-details)
+
+<details id="crm-details">
+<summary><b>📖 View Details</b></summary>
+
+**Domain:** Data Engineering & CRM | **Type:** Professional Project | **Date:** 2025  
+
+#### 🧩 Context  
+Maintained and optimized the CRM database by automating **data cleaning and validation processes** to ensure data reliability and improve email deliverability.  
+
+#### 🏆 Key Achievements  
+✅ Automated cleaning of hard bounces and inactive contacts  
+✅ Reduced bounce rates and improved deliverability  
+✅ Developed **Python automation scripts** for CRM maintenance  
+✅ Built **Power BI dashboards** to monitor CRM health metrics  
+✅ Implemented data validation workflows and alerts  
+✅ Defined data governance rules and documentation  
+
+#### 🛠️ Tech Stack  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Dynamics_365_Logo.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50"> 
+
+#### 💡 Skills Demonstrated  
+- CRM Data Management  
+- Process Automation (Python)  
+- Data Quality & Governance  
+- Email Deliverability Optimization  
+- Data Monitoring with Power BI  
+
+#### 💼 Business Impact  
+- Significant reduction of bounce rates  
+- Improved data reliability  
+- Automated repetitive processes  
+- Real-time CRM performance visibility  
+- Cost reduction through automation  
 
 </details>
 
