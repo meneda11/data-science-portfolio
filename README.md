@@ -60,6 +60,7 @@ Developed an enterprise-grade AI system to detect weak signals in complex multi-
 - Cross-functional Collaboration
 
 </details>
+
 ---
 
 ### ⚙️ Industrial Predictive Maintenance
