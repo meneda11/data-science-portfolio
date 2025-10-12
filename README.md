@@ -423,7 +423,8 @@ Designed end-to-end **data architectures and automated pipelines** to centralize
 
 </details>
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 ### 📡 Network Performance Optimization & Monitoring
 **Domain:** Data Engineering | **Type:** Professional Project | **Date:** 2020 - 2023
@@ -461,11 +462,10 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 </details>
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
+
+---
 
 ---
 
