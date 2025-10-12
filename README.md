@@ -189,6 +189,7 @@ Collaborated with researchers to develop an AI-powered system for monitoring bee
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Librosa](https://img.shields.io/badge/-Librosa-1DB954?style=flat&logo=python&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/-YOLOv5-00FFFF?style=flat)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![IoT](https://img.shields.io/badge/-IoT-0066CC?style=flat)
