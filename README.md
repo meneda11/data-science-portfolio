@@ -10,7 +10,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 ![Projects](https://img.shields.io/badge/Projects-5+-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-**☁️ Cloud Architecture** | **🤖 Machine Learning** | **👁️ Computer Vision** | **📊 Predictive Analytics**
+**☁️ Cloud Architecture** | **🤖 Gen AI & Machine Learning** | **👁️ Computer Vision** | **📊 Predictive Analytics**
 
 </div>
 
@@ -20,7 +20,6 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 - [🤖 AI & Machine Learning](#-ai--machine-learning)
 - [📊 Business Intelligence & Analytics](#-business-intelligence--analytics)
 - [🔧 Data Engineering & CRM](#-data-engineering--crm)
-- [🧬 Bioinformatics](#-bioinformatics)
 - [🛠️ Complete Tech Stack](#️-complete-tech-stack)
 
 ---
