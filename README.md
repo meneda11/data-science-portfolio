@@ -457,7 +457,7 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
-[![Actix](https://img.shields.io/badge/-Actix-000000?style=flat&logo=rust&logoColor=white)](https://actix.rs/)
+[![Actix Analyzer](https://img.shields.io/badge/-Actix%20Analyzer-000000?style=flat&logo=telecom&logoColor=white)](https://www.actix.com/)
 [![MapInfo](https://img.shields.io/badge/-MapInfo-005CAB?style=flat&logo=mapbox&logoColor=white)](https://www.precisely.com/product/precisely-mapinfo-pro)
 [![Tems Discovery](https://img.shields.io/badge/-Tems%20Discovery-008080?style=flat&logo=telecom&logoColor=white)](https://www.infovista.com/tems-discovery)
 [![Nemo Analyze](https://img.shields.io/badge/-Nemo%20Analyze-005CAB?style=flat&logo=signal&logoColor=white)](https://www.keysight.com/fr/en/product/Nemo-Analyze.html)
@@ -523,9 +523,11 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 ![Weights & Biases](https://img.shields.io/badge/-W&B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
 ### 📡 Telecom & Radio Engineering Tools
+[![Actix Analyzer](https://img.shields.io/badge/-Actix%20Analyzer-000000?style=flat&logo=telecom&logoColor=white)](https://www.actix.com/)
 [![MapInfo](https://img.shields.io/badge/-MapInfo-005CAB?style=flat&logo=mapbox&logoColor=white)](https://www.precisely.com/product/precisely-mapinfo-pro)
-[![Tems Discovery](https://img.shields.io/badge/-Tems%20Discovery-008080?style=flat&logo=telecom&logoColor=white)](https://www.infovista.com/tems-discovery)
+[![TEMS Discovery](https://img.shields.io/badge/-TEMS%20Discovery-008080?style=flat&logo=telecom&logoColor=white)](https://www.infovista.com/tems-discovery)
 [![Nemo Analyze](https://img.shields.io/badge/-Nemo%20Analyze-005CAB?style=flat&logo=signal&logoColor=white)](https://www.keysight.com/fr/en/product/Nemo-Analyze.html)
+
 
 ### 📚 Libraries & Tools
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
