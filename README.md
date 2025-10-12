@@ -483,10 +483,10 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![Microsoft Azure Machine Learning](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Microsoft Azure AI Search](https://img.shields.io/badge/-Azure%20AI%20Search-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Microsoft Azure Machine Learning](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure AI Search](https://img.shields.io/badge/-Azure%20AI%20Search-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
