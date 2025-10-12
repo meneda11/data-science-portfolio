@@ -449,9 +449,20 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 - ✅ Reduced incident response time by **40%** through proactive monitoring  
 
 **Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+[![Actix](https://img.shields.io/badge/-Actix-000000?style=flat&logo=rust&logoColor=white)](https://actix.rs/)
+[![MapInfo](https://img.shields.io/badge/-MapInfo-005CAB?style=flat&logo=mapbox&logoColor=white)](https://www.precisely.com/product/precisely-mapinfo-pro)
+[![Tems Discovery](https://img.shields.io/badge/-Tems%20Discovery-008080?style=flat&logo=telecom&logoColor=white)](https://www.infovista.com/tems-discovery)
+[![Nemo Analyze](https://img.shields.io/badge/-Nemo%20Analyze-005CAB?style=flat&logo=signal&logoColor=white)](https://www.keysight.com/fr/en/product/Nemo-Analyze.html)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+
 
 **Skills Demonstrated:**
 - Data Pipeline Automation  
@@ -469,8 +480,6 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 </td>
 </tr>
 </table>
-
----
 
 ---
 
@@ -516,6 +525,8 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 ### 📚 Libraries & Tools
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Librosa](https://img.shields.io/badge/-Librosa-1DB954?style=flat&logo=python&logoColor=white)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
