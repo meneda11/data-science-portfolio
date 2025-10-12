@@ -369,23 +369,78 @@ Maintained and optimized the CRM database by automating **data cleaning and vali
 
 ---
 
-
 ## 🔧 Data Engineering Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Data Architecture & Pipeline Automation (Microsoft Fabric / Azure)
+**Domain:** Data Engineering | **Type:** Professional Project | **Date:** 2025
+
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#fabric-pipeline-details)
+
+<details id="fabric-pipeline-details">
+<summary><b>📖 View Details</b></summary>
+
+**Context:**  
+Designed end-to-end **data architectures and automated pipelines** to centralize, transform, and valorize marketing and CRM data across the organization.
+
+**Key Achievements:**
+- ✅ Designed & implemented **Lakehouse architecture (Bronze / Silver / Gold)** under Microsoft Fabric  
+- ✅ Developed **data ingestion pipelines** from Dynamics 365 and internal databases  
+- ✅ Built **automated cleaning and enrichment workflows** for data reliability  
+- ✅ Modeled and transformed data to **improve analytical consistency**  
+- ✅ Produced **comprehensive technical documentation** (architecture, flows, scripts)  
+- ✅ Collaborated with **IT and business teams** to align technical and functional goals  
+
+**Tech Stack:**
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Power Query](https://img.shields.io/badge/-Power%20Query-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Matomo](https://img.shields.io/badge/-Matomo-013243?style=flat&logo=matomo&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+
+**Skills Demonstrated:**
+- Data Architecture Design (Lakehouse, ELT, Automation)  
+- Integration with Dynamics 365 & Marketing Sources  
+- Fabric & Azure Data Engineering  
+- Data Modeling & Quality Governance  
+- Documentation & Technical Communication  
+
+#### 💼 Business Impact  
+- Unified data ecosystem enabling **centralized analytics**  
+- Enhanced reliability and traceability of CRM and marketing data  
+- Faster dashboard delivery and decision-making  
+- Improved collaboration between **technical and business teams**  
+- Fostered a **data-driven culture** across departments  
+
+</details>
+
+<br>
 
 ### 📡 Network Performance Optimization & Monitoring
 **Domain:** Data Engineering | **Type:** Professional Project | **Date:** 2020 - 2023
 
-<details>
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#network-monitoring-details)
+
+<details id="network-monitoring-details">
 <summary><b>📖 View Details</b></summary>
 
 **Context:**  
 Designed and automated data pipelines for real-time mobile network monitoring, anomaly detection, and performance optimization.
 
 **Key Achievements:**
-- ✅ Automated **ETL pipelines** for network data collection
-- ✅ Implemented **time series anomaly detection** on signal quality
-- ✅ Created **dynamic dashboards** for complex system behavior modeling
-- ✅ Reduced incident response time by **40%**
+- ✅ Automated **ETL pipelines** for continuous signal data collection  
+- ✅ Implemented **time series anomaly detection** to identify network issues early  
+- ✅ Developed **real-time dashboards** to visualize KPIs and performance metrics  
+- ✅ Reduced incident response time by **40%** through proactive monitoring  
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -393,17 +448,24 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 **Skills Demonstrated:**
-- Pipeline Automation
-- Real-time Data Processing
-- Anomaly Detection
-- System Monitoring
+- Data Pipeline Automation  
+- Real-time Data Processing  
+- Anomaly Detection & Monitoring  
+- System Reliability Optimization  
 
-#### 💼 Business Impact
-- signal collection
-- drift detection
-- dysfunction prediction.
+#### 💼 Business Impact  
+- Faster issue detection and reduced downtime  
+- Improved service quality and customer satisfaction  
+- Optimized resource allocation through predictive insights  
 
 </details>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
