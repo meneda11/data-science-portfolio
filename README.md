@@ -27,11 +27,17 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 
 ## 🤖 AI & Machine Learning Projects
 
-### 🎯 Business Signal Detection and Recommendation engine with AI
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Business Signal Detection & Recommendation Engine with AI
 
 **Domain:** AI/ML | **Type:** Professional Project | **Date:** 2025
 
-<details>
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#ai-reco-details)
+
+<details id="ai-reco-details">
 <summary><b>📖 View Details</b></summary>
 
 **Context:**  
@@ -63,13 +69,16 @@ Developed an enterprise-grade AI system to detect weak signals in complex multi-
 
 </details>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### ⚙️ Industrial Predictive Maintenance
 
 **Domain:** Predictive Analytics | **Type:** Personal Project | **Date:** 04/2025 - 06/2025
 
-<details>
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#predictive-maintenance-details)
+
+<details id="predictive-maintenance-details">
 <summary><b>📖 View Details</b></summary>
 
 **Context:**  
@@ -105,14 +114,18 @@ Predictive modeling approach applicable to forecasting biological events and cel
 
 </details>
 
----
-
-## 🧬 Bioinformatics Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔬 Single PCR Data Analysis & Modeling
+
 **Domain:** Bioinformatics | **Type:** Personal Project | **Date:** 05/2024 - 08/2024
 
-<details>
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#single-pcr-details)
+
+<details id="single-pcr-details">
 <summary><b>📖 View Details</b></summary>
 
 **Context:**  
@@ -145,12 +158,16 @@ Reproducible workflow for experimental PCR data quantification and genetic targe
 
 </details>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🐝 Bee Colony Health Monitoring with Computer Vision
+
 **Domain:** Computer Vision + IoT | **Type:** Research Project | **Date:** 10/2023 - 03/2024
 
-<details>
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#bee-health-details)
+
+<details id="bee-health-details">
 <summary><b>📖 View Details</b></summary>
 
 **Context:**  
@@ -179,7 +196,9 @@ Early detection of colony health issues, contributing to bee conservation effort
 
 </details>
 
----
+</td>
+</tr>
+</table>
 
 ## 📊 Business Intelligence & Web Analytics
 
