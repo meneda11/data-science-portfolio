@@ -69,12 +69,12 @@ Developed an enterprise-grade AI system to detect weak signals in complex multi-
 - Cross-functional Collaboration
 
 #### 💼 Business Impact 
-- vision 360° client
--  meilleure segmentation
--  amélioration du ciblage
--  scoring automatisé
--  optimisation de la prospection
--  génération de leads qualifiés
+- 360° Customer View
+- Better Segmentation
+- Improved Targeting
+- Automated Scoring
+- Prospecting Optimization
+- Generation of Qualified Leads
 
 </details>
 
