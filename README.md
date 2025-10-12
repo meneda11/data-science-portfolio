@@ -474,10 +474,11 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 ## 🛠️ Complete Tech Stack
 
 ### ☁️ Cloud & Data Platforms
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Dataiku DSS](https://img.shields.io/badge/-Dataiku%20DSS-00B0F0?style=flat&logo=dataiku&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
