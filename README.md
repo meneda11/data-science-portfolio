@@ -432,7 +432,7 @@ Designed end-to-end **data architectures and automated pipelines** to centralize
 <td width="50%" valign="top">
 
 ### 📡 Network Performance Optimization & Monitoring
-**Domain:** Data Engineering | **Type:** Professional Project | **Date:** 2020 - 2023
+**Domain:** Data Engineering | **Type:** Professional Project | **Date:** 2016 - 2023
 
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#network-monitoring-details)
 
