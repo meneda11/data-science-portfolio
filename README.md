@@ -522,6 +522,11 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/-W&B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
+### 📡 Telecom & Radio Engineering Tools
+[![MapInfo](https://img.shields.io/badge/-MapInfo-005CAB?style=flat&logo=mapbox&logoColor=white)](https://www.precisely.com/product/precisely-mapinfo-pro)
+[![Tems Discovery](https://img.shields.io/badge/-Tems%20Discovery-008080?style=flat&logo=telecom&logoColor=white)](https://www.infovista.com/tems-discovery)
+[![Nemo Analyze](https://img.shields.io/badge/-Nemo%20Analyze-005CAB?style=flat&logo=signal&logoColor=white)](https://www.keysight.com/fr/en/product/Nemo-Analyze.html)
+
 ### 📚 Libraries & Tools
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
