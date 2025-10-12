@@ -477,14 +477,14 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 
 ### ☁️ Cloud & Data Platforms
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Microsoft Azure Machine Learning](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Microsoft Azure AI Search](https://img.shields.io/badge/-Azure%20AI%20Search-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Dataiku DSS](https://img.shields.io/badge/-Dataiku%20DSS-00B0F0?style=flat&logo=dataiku&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ### 🤖 AI & Machine Learning
+![Microsoft Azure Machine Learning](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure AI Search](https://img.shields.io/badge/-Azure%20AI%20Search-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
