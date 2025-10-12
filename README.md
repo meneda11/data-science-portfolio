@@ -50,7 +50,7 @@ Developed an enterprise-grade AI system to detect weak signals in complex multi-
 - ✅ Enabled **cross-team collaboration** via Microsoft Teams integration
 
 **Tech Stack:**
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-002050?style=flat&logo=dynamics-365&logoColor=white)
@@ -289,7 +289,7 @@ Leveraged marketing and sales data to generate **actionable insights** through K
 
 #### 🛠️ Tech Stack  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -397,7 +397,7 @@ Designed end-to-end **data architectures and automated pipelines** to centralize
 - ✅ Collaborated with **IT and business teams** to align technical and functional goals  
 
 **Tech Stack:**
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
@@ -474,7 +474,7 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 ## 🛠️ Complete Tech Stack
 
 ### ☁️ Cloud & Data Platforms
-![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5E5E5E?style=flat&logo=microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Dataiku DSS](https://img.shields.io/badge/-Dataiku%20DSS-00B0F0?style=flat&logo=dataiku&logoColor=white)
