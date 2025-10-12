@@ -99,6 +99,8 @@ Built a complete MLOps pipeline to predict equipment failures 24 hours in advanc
 - ✅ Built **interpretable feature importance analysis**
 
 **Tech Stack:**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/-Amazon%20SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
