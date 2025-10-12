@@ -66,8 +66,13 @@ Developed an enterprise-grade AI system to detect weak signals in complex multi-
 - Business Intelligence & Visualization
 - Cross-functional Collaboration
 
-**Impact:**  
-vision 360° client, meilleure segmentation, amélioration du ciblage, scoring automatisé, optimisation de la prospection, génération de leads qualifiés.
+#### 💼 Business Impact 
+- vision 360° client
+-  meilleure segmentation
+-  amélioration du ciblage
+-  scoring automatisé
+-  optimisation de la prospection
+-  génération de leads qualifiés
 
 </details>
 
@@ -152,7 +157,7 @@ Developed a comprehensive pipeline for analyzing simulated single PCR data to un
 - Machine Learning
 - Scientific Visualization
 
-**Impact:**  
+#### Impact 
 Reproducible workflow for experimental PCR data quantification and genetic target analysis.
 
 </details>
@@ -190,8 +195,9 @@ Collaborated with researchers to develop an AI-powered system for monitoring bee
 - Multi-modal Data Processing
 - Research Collaboration
 
-**Impact:**  
-Early detection of colony health issues, contributing to bee conservation efforts.
+#### 💼 Business Impact
+- Early detection of colony health issues
+- contributing to bee conservation efforts
 
 </details>
 
@@ -392,8 +398,10 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 - Anomaly Detection
 - System Monitoring
 
-**Application to Biomedical:**  
-Similar approach to modeling complex biological processes: signal collection, drift detection, and dysfunction prediction.
+#### 💼 Business Impact
+- signal collection
+- drift detection
+- dysfunction prediction.
 
 </details>
 
