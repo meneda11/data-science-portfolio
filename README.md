@@ -18,7 +18,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 
 ## 📌 Table of Contents Projects
 - [🤖 AI & Machine Learning](#-ai--machine-learning)
-- [📊 Business Intelligence & Web Analytics & CRM](#-business-intelligence--web-analytics--crm)
+- [📊 Data & Business Analyst & Web Analytics & CRM](#-data-business-nalyst--web-analytics--crm)
 - [🔧 Data Engineering](#-data-engineering)
 - [🛠️ Complete Tech Stack](#️-complete-tech-stack)
 
@@ -205,7 +205,7 @@ Collaborated with researchers to develop an AI-powered system for monitoring bee
 </tr>
 </table>
 
-## 📊 Business Intelligence & Web Analytics & CRM
+## 📊 Data & Business Analyst & Web Analytics & CRM
 
 <table>
 <tr>
