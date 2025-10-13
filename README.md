@@ -18,7 +18,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 
 ## 📌 Table of Contents Projects
 - [🤖 AI & Machine Learning](#-ai--machine-learning)
-- [📊 Data & Business Analyst & Web Analytics & CRM](#-data--business-analyst--web-analytics--crm)
+- [📊 Marketing Data & Web/CRM Analytics](#-data--business-analyst--web-analytics--crm)
 - [🔧 Data Engineering](#-data-engineering)
 - [🛠️ Complete Tech Stack](#️-complete-tech-stack)
 
@@ -257,74 +257,7 @@ EN :
 </tr>
 </table>
 
-## 📊 Data & Business Analyst & Web Analytics & CRM
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Web Analytics & Tracking  
-
-**Matomo • Power BI • Google Analytics • Dynamics 365**
-
-End-to-end web tracking and digital performance optimization.  
-
-[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#web-analytics-details)
-
-<details id="web-analytics-details">
-<summary><b>📖 View Details</b></summary>
-
-**Domain:** Web Analytics & BI | **Type:** Professional Project | **Date:** 2025  
-
-🧩 Contexte / Context
-FR :
-Mise en place d’une infrastructure complète de suivi web avec Matomo pour analyser l’activité du site — de la configuration des tags à la collecte et au reporting des données — permettant une optimisation digitale basée sur les données.
-
-EN :
-Implemented a complete web tracking infrastructure using Matomo to analyze website activity — from tag setup to data collection and reporting — enabling data-driven digital optimization.
-
-🏆 Réalisations clés / Key Achievements
-FR :
-✅ Configuration de tags, déclencheurs et variables personnalisés pour le suivi des visiteurs
-✅ Analyse du comportement utilisateur : sources de trafic, canaux d’acquisition, pages les plus consultées, services visités, appareils et origine géographique
-✅ Création de dashboards Power BI pour le trafic web, nombre de visiteurs, durée moyenne de session, taux de rebond et engagement
-✅ Étude des parcours utilisateurs et recommandations d’optimisation
-✅ Garantie de la conformité RGPD et fiabilité du suivi
-✅ Intégration de plusieurs sources de données (Matomo, Google Analytics, Dynamics 365)
-
-EN :
-✅ Configured custom tags, triggers, and variables for visitor tracking
-✅ Analyzed user behavior: traffic sources, acquisition channels, most visited pages, services consulted, devices, and geo-origin
-✅ Built Power BI dashboards for web traffic, visitor count, average session, bounce rate, and engagement
-✅ Studied user journeys and proposed optimization recommendations
-✅ Ensured GDPR compliance and tracking reliability
-✅ Integrated multiple data sources (Matomo, Google Analytics, Dynamics 365) 
-
-#### 🛠️ Tech Stack  
-![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-#### 💡 Skills Demonstrated  
-- Web Analytics & Tag Management  
-- User Behavior Analysis  
-- Dashboard Design & Visualization  
-- Digital Marketing Analytics  
-- GDPR Compliance  
-- Cross-functional Collaboration  
-
-#### 💼 Business Impact  
-- Improved visibility on digital performance  
-- Enhanced understanding of user behavior  
-- Data-driven marketing strategy alignment  
-- Better targeting and lead generation  
-
-</details>
-
-</td>
-<td width="50%" valign="top">
+## 📊 Marketing Data & Web/CRM Analytics
 
 ### 📧 Marketing Data Intelligence  
 
@@ -340,7 +273,6 @@ Marketing dashboards, NPS analysis, and AI-powered business signal detection.
 **Domain:** Marketing Analytics | **Type:** Professional Project | **Date:** 2025  
 
 🧩 Contexte / Context
-
 FR :
 Exploitation des données marketing et commerciales pour générer des insights actionnables à travers des KPIs et dashboards, optimisation des opérations CRM, et mise en place de campagnes efficaces.
 
@@ -467,6 +399,75 @@ EN :
 
 </details>
 
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Web Analytics & Tracking  
+
+**Matomo • Power BI • Google Analytics • Dynamics 365**
+
+End-to-end web tracking and digital performance optimization.  
+
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#web-analytics-details)
+
+<details id="web-analytics-details">
+<summary><b>📖 View Details</b></summary>
+
+**Domain:** Web Analytics & BI | **Type:** Professional Project | **Date:** 2025  
+
+🧩 Contexte / Context
+FR :
+Mise en place d’une infrastructure complète de suivi web avec Matomo pour analyser l’activité du site — de la configuration des tags à la collecte et au reporting des données — permettant une optimisation digitale basée sur les données.
+
+EN :
+Implemented a complete web tracking infrastructure using Matomo to analyze website activity — from tag setup to data collection and reporting — enabling data-driven digital optimization.
+
+🏆 Réalisations clés / Key Achievements
+FR :
+✅ Configuration de tags, déclencheurs et variables personnalisés pour le suivi des visiteurs
+✅ Analyse du comportement utilisateur : sources de trafic, canaux d’acquisition, pages les plus consultées, services visités, appareils et origine géographique
+✅ Création de dashboards Power BI pour le trafic web, nombre de visiteurs, durée moyenne de session, taux de rebond et engagement
+✅ Étude des parcours utilisateurs et recommandations d’optimisation
+✅ Garantie de la conformité RGPD et fiabilité du suivi
+✅ Intégration de plusieurs sources de données (Matomo, Google Analytics, Dynamics 365)
+
+EN :
+✅ Configured custom tags, triggers, and variables for visitor tracking
+✅ Analyzed user behavior: traffic sources, acquisition channels, most visited pages, services consulted, devices, and geo-origin
+✅ Built Power BI dashboards for web traffic, visitor count, average session, bounce rate, and engagement
+✅ Studied user journeys and proposed optimization recommendations
+✅ Ensured GDPR compliance and tracking reliability
+✅ Integrated multiple data sources (Matomo, Google Analytics, Dynamics 365) 
+
+#### 🛠️ Tech Stack  
+![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### 💡 Skills Demonstrated  
+- Web Analytics & Tag Management  
+- User Behavior Analysis  
+- Dashboard Design & Visualization  
+- Digital Marketing Analytics  
+- GDPR Compliance  
+- Cross-functional Collaboration  
+
+#### 💼 Business Impact  
+- Improved visibility on digital performance  
+- Enhanced understanding of user behavior  
+- Data-driven marketing strategy alignment  
+- Better targeting and lead generation  
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+  
 ---
 
 ## 🔧 Data Engineering
