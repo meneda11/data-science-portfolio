@@ -296,15 +296,15 @@ EN :
 - ✅ Built automated reports and collaborated with teams to define efficient workflows and campaign scenarios
 
 #### 🛠️ Tech Stack  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)  
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)  
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
-![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) 
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) 
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) 
+![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)
 
 #### 💡 Skills Demonstrated  
 - Marketing Analytics & KPI Design  
@@ -358,14 +358,14 @@ EN :
 - ✅ Implemented validation workflows and defined data governance rules
 
 #### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)  
-![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
+![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 #### 💡 Skills Demonstrated  
 - CRM Data Management  
@@ -428,7 +428,7 @@ EN :
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) 
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+  
 #### 💡 Skills Demonstrated  
 - Web Analytics & Tag Management  
 - User Behavior Analysis  
