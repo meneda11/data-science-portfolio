@@ -50,16 +50,14 @@ Developed an enterprise-grade AI system to detect weak signals in complex multi-
 🏆 Key Achievements
 
 **FR** :
-- ✅ Conçu et déployé une architecture Lakehouse Microsoft Fabric pour l’intégration multi-sources (CRM, SQL, web, documents)
-- ✅ Développé un moteur de recommandations IA avec Azure OpenAI et scoring prédictif
-- ✅ Créé des dashboards Power BI interactifs pour des insights en temps réel
-- ✅ Favorisé la collaboration inter-équipes via Microsoft Teams
+- ✅ Conçevoir et déployer une architecture Lakehouse Microsoft Fabric pour l’intégration multi-sources (CRM, SQL, web, documents)
+- ✅ Développer un moteur de recommandations IA avec Azure OpenAI et scoring prédictif
+- ✅ Créer des dashboards Power BI interactifs pour des insights en temps réel
 
 **EN** :
 - ✅ Designed and deployed Microsoft Fabric Lakehouse architecture for multi-source integration (CRM, SQL, web, documents)
 - ✅ Developed AI recommendation engine with Azure OpenAI and predictive scoring
 - ✅ Built interactive Power BI dashboards for real-time insights
-- ✅ Enabled cross-team collaboration via Microsoft Teams
 
 **Tech Stack:**
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
@@ -113,10 +111,10 @@ Built a complete MLOps pipeline to predict equipment failures 24 hours in advanc
 🏆 Key Achievements
 
 **FR** :
-- ✅ Développé et optimisé des modèles ML en ensemble (XGBoost, Random Forest, SVM, Logistic Regression) avec >90% de précision
-- ✅ Réalisé le tuning d’hyperparamètres et suivi des expérimentations avec Weights & Biases
+- ✅ Développer un pipeline MLOPS et optimiser les modèles (XGBoost, Random Forest, SVM, Logistic Regression)
+- ✅ Réaliser le tuning d’hyperparamètres et le suivi des expérimentations avec Weights & Biases
 - ✅ Mis en place un pipeline CI/CD automatisé pour le déploiement et l’orchestration des modèles
-- ✅ Analysé et interprété l’importance des features pour un meilleur insight métier
+- ✅ Analyser et interpréter l’importance des features pour un meilleur insight métier
 
 **EN** :
 - ✅ Developed and optimized ensemble ML models (XGBoost, Random Forest, SVM, Logistic Regression) with >90% accuracy
@@ -171,9 +169,9 @@ Developed a comprehensive pipeline for analyzing simulated single PCR data to un
 🏆 Key Achievements
 
 **FR** :
-- ✅ Développé un pipeline Python automatisé pour le traitement et l’analyse des données PCR
-- ✅ Analysé les résultats biologiques (valeurs Cq, courbes standards) et visualisé les signaux
-- ✅ Appliqué des modèles de machine learning pour des prédictions fiables sur les jeux de données
+- ✅ Développer un pipeline Python automatisé pour le traitement et l’analyse des données PCR
+- ✅ Analyser les résultats biologiques (valeurs Cq, courbes standards) et visualisé les signaux
+- ✅ Appliquer des modèles de machine learning pour des prédictions fiables sur les jeux de données
 
 **EN** :
 - ✅ Built an automated Python pipeline for PCR data processing and analysis
@@ -223,7 +221,7 @@ Collaborated with researchers to develop an AI-powered system for monitoring bee
 🏆 Réalisations clés / Key Achievements
 
 **FR** :
-- ✅ Traitement de données IoT multi-sources (température, humidité, audio, vidéo, JSON)
+- ✅ Pré-traitement de données IoT multi-sources (température, humidité, audio, vidéo, JSON)
 - ✅ Entraînement d’un modèle de détection d’objets YOLOv5 pour identifier les comportements anormaux des abeilles
 - ✅ Mise en œuvre d’algorithmes de détection d’anomalies sur séries temporelles
 - ✅ Analyse des signaux audio biologiques pour la reconnaissance de motifs
@@ -287,14 +285,14 @@ Leveraged marketing and sales data to generate actionable insights through KPIs 
 🏆 Key Achievements
 
 **FR** :
-- ✅ Optimisé les campagnes marketing et emails via segmentation, ciblage précis et A/B testing, améliorant l’engagement client
-- ✅ Analysé les enquêtes de satisfaction (NPS, CSAT) et les KPI pour guider les décisions marketing
-- ✅ Créé des rapports automatisés et collaboré avec les équipes pour définir workflows et scénarios efficaces
+- ✅ Analyser les performances des campagnes marketing et emails via segmentation, ciblage précis et A/B testing, améliorant l’engagement client
+- ✅ Analyser les enquêtes de satisfaction (NPS, CSAT, Score) et les KPI pour guider les décisions marketing
+- ✅ Créer des tableaux de bord automatisés et collaborer avec les équipes pour définir les workflows et scénarios efficaces
 
 **EN** :
 - ✅ Optimized marketing and email campaigns through segmentation, precise targeting, and A/B testing, boosting customer engagement
-- ✅ Analyzed customer satisfaction surveys (NPS, CSAT) and KPIs to inform marketing decisions
-- ✅ Built automated reports and collaborated with teams to define efficient workflows and campaign scenarios
+- ✅ Analyzed customer satisfaction surveys (NPS, CSAT, Score) and KPIs to inform marketing decisions
+- ✅ Built automated dashboards and collaborated with teams to define efficient workflows and campaign scenarios
 
 #### 🛠️ Tech Stack  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
@@ -350,14 +348,14 @@ Maintained and optimized the CRM database by automating data cleaning and valida
 🏆 Key Achievements
 
 **FR** :
-- ✅ Automatisé le nettoyage des emails et des contacts inactifs, réduisant le taux de rebond et améliorant la délivrabilité
-- ✅ Développé des scripts Python et dashboards Power BI pour monitorer la santé du CRM
-- ✅ Mis en place des workflows de validation et défini les règles de gouvernance des données
+- ✅ Automatiser le nettoyage des emails et des contacts inactifs, réduisant le taux de rebond et améliorant la délivrabilité
+- ✅ Créer des rapports statistiques pour présenter la santé du CRM
+- ✅ Mettre en place des workflows Python intégrant Phantom Buster pour détecter, traiter et enrichir les contacts invalides
 
 **EN** :
 - ✅ Automated cleaning of emails and inactive contacts, reducing bounce rates and improving deliverability
-- ✅ Built Python scripts and Power BI dashboards to monitor CRM health
-- ✅ Implemented validation workflows and defined data governance rules
+- ✅ Built statistical reports and Power BI to present CRM health
+- ✅ Implemented Python workflows integrating Phantom Buster to detect, process, and enrich invalid contacts
 
 #### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -414,9 +412,9 @@ Implemented a complete web tracking infrastructure using Matomo to analyze websi
 🏆 Key Achievements
 
 **FR** :
-- ✅ Configuré le tracking avancé des visiteurs avec tags, déclencheurs et variables personnalisés
-- ✅ Analysé le comportement utilisateur et les parcours pour recommandations d’optimisation
-- ✅ Créé des dashboards Power BI pour trafic, engagement et KPI clés
+- ✅ Configurer le tracking avancé des visiteurs avec balises, déclencheurs et variables personnalisés
+- ✅ Analyser le comportement utilisateur et les parcours pour recommandations d’optimisation
+- ✅ Créer des dashboards Power BI pour trafic, engagement et KPI clés
 
 **EN** :
 - ✅ Implemented advanced visitor tracking with custom tags, triggers, and variables
