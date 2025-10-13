@@ -48,19 +48,21 @@ EN :
 Developed an enterprise-grade AI system to detect weak signals in complex multi-source data, enabling early anomaly detection and intelligent predictive recommendations.
 
 🏆 Réalisations clés / Key Achievements
+
 FR :
-✅ Mise en place d’une architecture Lakehouse Microsoft Fabric pour l’intégration de données multi-sources (Dynamics 365 CRM, SQL, web, documents)
-✅ Développement d’un moteur de recommandations IA utilisant Azure OpenAI
-✅ Implémentation de la vectorisation sémantique et scoring prédictif
-✅ Création de dashboards Power BI interactifs pour des insights en temps réel
-✅ Facilitation de la collaboration inter-équipes via l’intégration Microsoft Teams
+- ✅ Mise en place d’une architecture Lakehouse Microsoft Fabric pour l’intégration de données multi-sources (Dynamics 365 CRM, SQL, web, documents)
+- ✅ Développement d’un moteur de recommandations IA utilisant Azure OpenAI
+- ✅ Implémentation de la vectorisation sémantique et scoring prédictif
+- ✅ Création de dashboards Power BI interactifs pour des insights en temps réel
+- ✅ Facilitation de la collaboration inter-équipes via l’intégration Microsoft Teams
 
 EN :
-✅ Built Microsoft Fabric Lakehouse architecture for multi-source data integration (Dynamics 365 CRM, SQL, web, documents)
-✅ Developed AI-powered recommendation engine using Azure OpenAI
-✅ Implemented semantic vectorization and predictive scoring
-✅ Created interactive Power BI dashboards for real-time insights
-✅ Enabled cross-team collaboration via Microsoft Teams integration
+- ✅ Built Microsoft Fabric Lakehouse architecture for multi-source data integration (Dynamics 365 CRM, SQL, web, documents)
+- ✅ Developed AI-powered recommendation engine using Azure OpenAI
+- ✅ Implemented semantic vectorization and predictive scoring
+- ✅ Created interactive Power BI dashboards for real-time insights
+- ✅ Enabled cross-team collaboration via Microsoft Teams integration
+
 
 **Tech Stack:**
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
