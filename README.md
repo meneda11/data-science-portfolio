@@ -47,22 +47,19 @@ Développement d’un système IA de détection de signaux faibles à l’échel
 EN :
 Developed an enterprise-grade AI system to detect weak signals in complex multi-source data, enabling early anomaly detection and intelligent predictive recommendations.
 
-🏆 Réalisations clés / Key Achievements
+🏆 Key Achievements
 
 FR :
-- ✅ Mise en place d’une architecture Lakehouse Microsoft Fabric pour l’intégration de données multi-sources (Dynamics 365 CRM, SQL, web, documents)
-- ✅ Développement d’un moteur de recommandations IA utilisant Azure OpenAI
-- ✅ Implémentation de la vectorisation sémantique et scoring prédictif
-- ✅ Création de dashboards Power BI interactifs pour des insights en temps réel
-- ✅ Facilitation de la collaboration inter-équipes via l’intégration Microsoft Teams
+- ✅ Conçu et déployé une architecture Lakehouse Microsoft Fabric pour l’intégration multi-sources (CRM, SQL, web, documents)
+- ✅ Développé un moteur de recommandations IA avec Azure OpenAI et scoring prédictif
+- ✅ Créé des dashboards Power BI interactifs pour des insights en temps réel
+- ✅ Favorisé la collaboration inter-équipes via Microsoft Teams
 
 EN :
-- ✅ Built Microsoft Fabric Lakehouse architecture for multi-source data integration (Dynamics 365 CRM, SQL, web, documents)
-- ✅ Developed AI-powered recommendation engine using Azure OpenAI
-- ✅ Implemented semantic vectorization and predictive scoring
-- ✅ Created interactive Power BI dashboards for real-time insights
-- ✅ Enabled cross-team collaboration via Microsoft Teams integration
-
+- ✅ Designed and deployed Microsoft Fabric Lakehouse architecture for multi-source integration (CRM, SQL, web, documents)
+- ✅ Developed AI recommendation engine with Azure OpenAI and predictive scoring
+- ✅ Built interactive Power BI dashboards for real-time insights
+- ✅ Enabled cross-team collaboration via Microsoft Teams
 
 **Tech Stack:**
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
@@ -113,20 +110,19 @@ Mise en place d’un pipeline MLOps complet pour prédire les défaillances d’
 EN :
 Built a complete MLOps pipeline to predict equipment failures 24 hours in advance, enabling proactive maintenance strategies with automated deployment and monitoring.
 
-🏆 Réalisations clés / Key Achievements
+🏆 Key Achievements
+
 FR :
-✅ Développement de modèles ML en ensemble (XGBoost, Random Forest, SVM, Logistic Regression)
-✅ Atteinte de plus de 90 % de précision (optimisation AUC et F1-score)
-✅ Mise en œuvre de tuning d’hyperparamètres avec suivi Weights & Biases
-✅ Création d’un pipeline CI/CD automatisé avec Docker et Airflow
-✅ Analyse interprétable de l’importance des features
+- ✅ Développé et optimisé des modèles ML en ensemble (XGBoost, Random Forest, SVM, Logistic Regression) avec >90% de précision
+- ✅ Réalisé le tuning d’hyperparamètres et suivi des expérimentations avec Weights & Biases
+- ✅ Mis en place un pipeline CI/CD automatisé pour le déploiement et l’orchestration des modèles
+- ✅ Analysé et interprété l’importance des features pour un meilleur insight métier
 
 EN :
-✅ Developed ensemble ML models (XGBoost, Random Forest, SVM, Logistic Regression)
-✅ Achieved 90%+ prediction accuracy (AUC, F1-score optimization)
-✅ Implemented hyperparameter tuning with Weights & Biases tracking
-✅ Created automated CI/CD pipeline with Docker and Airflow
-✅ Built interpretable feature importance analysis
+- ✅ Developed and optimized ensemble ML models (XGBoost, Random Forest, SVM, Logistic Regression) with >90% accuracy
+- ✅ Performed hyperparameter tuning and experiment tracking using Weights & Biases
+- ✅ Implemented an automated CI/CD pipeline for model deployment and orchestration
+- ✅ Analyzed and interpreted feature importance for actionable business insights
 
 **Tech Stack:**
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
@@ -172,20 +168,17 @@ Développement d’un pipeline complet pour l’analyse de données PCR simulée
 EN :
 Developed a comprehensive pipeline for analyzing simulated single PCR data to understand biological signal amplification and DNA quantification.
 
-🏆 Réalisations clés / Key Achievements
+🏆 Key Achievements
+
 FR :
-✅ Création d’un pipeline Python automatisé pour le traitement des données PCR
-✅ Analyse des valeurs Cq, courbes standards et efficacité PCR
-✅ Création d’outils de visualisation pour l’interprétation des signaux biologiques
-✅ Simulation et comparaison de multiples jeux de données PCR
-✅ Application de modèles de machine learning pour l’analyse prédictive
+- ✅ Développé un pipeline Python automatisé pour le traitement et l’analyse des données PCR
+- ✅ Analysé les résultats biologiques (valeurs Cq, courbes standards) et visualisé les signaux
+- ✅ Appliqué des modèles de machine learning pour des prédictions fiables sur les jeux de données
 
 EN :
-✅ Built automated Python pipeline for PCR data processing
-✅ Analyzed Cq values, standard curves, and PCR efficiency
-✅ Created visualization tools for biological signal interpretation
-✅ Simulated and compared multiple PCR datasets
-✅ Applied machine learning models for predictive analysis
+- ✅ Built an automated Python pipeline for PCR data processing and analysis
+- ✅ Analyzed biological results (Cq values, standard curves) and visualized signals
+- ✅ Applied machine learning models for reliable predictions on datasets
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -228,17 +221,18 @@ EN :
 Collaborated with researchers to develop an AI-powered system for monitoring bee colony health through multi-sensor data analysis and computer vision.
 
 🏆 Réalisations clés / Key Achievements
+
 FR :
-✅ Traitement de données IoT multi-sources (température, humidité, audio, vidéo, JSON)
-✅ Entraînement d’un modèle de détection d’objets YOLOv5 pour identifier les comportements anormaux des abeilles
-✅ Mise en œuvre d’algorithmes de détection d’anomalies sur séries temporelles
-✅ Analyse des signaux audio biologiques pour la reconnaissance de motifs
+- ✅ Traitement de données IoT multi-sources (température, humidité, audio, vidéo, JSON)
+- ✅ Entraînement d’un modèle de détection d’objets YOLOv5 pour identifier les comportements anormaux des abeilles
+- ✅ Mise en œuvre d’algorithmes de détection d’anomalies sur séries temporelles
+- ✅ Analyse des signaux audio biologiques pour la reconnaissance de motifs
 
 EN :
-✅ Processed multi-source IoT data (temperature, humidity, audio, video, JSON)
-✅ Trained YOLOv5 object detection model for abnormal bee behavior identification
-✅ Implemented time series anomaly detection algorithms
-✅ Analyzed biological audio signals for pattern recognition
+- ✅ Processed multi-source IoT data (temperature, humidity, audio, video, JSON)
+- ✅ Trained YOLOv5 object detection model for abnormal bee behavior identification
+- ✅ Implemented time series anomaly detection algorithms
+- ✅ Analyzed biological audio signals for pattern recognition
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -289,30 +283,17 @@ Exploitation des données marketing et commerciales pour générer des insights 
 EN :  
 Leveraged marketing and sales data to generate actionable insights through KPIs and dashboards, optimized CRM operations, and implemented efficient campaigns.  
 
-🏆 Réalisations clés / Key Achievements  
-FR :  
-✅ Analyse des enquêtes de satisfaction client (NPS, CSAT)  
-✅ Conception et paramétrage des campagnes email et autres types de campagnes  
-✅ Segmentation des audiences et ciblage précis selon les critères définis  
-✅ Analyse des performances passées pour optimiser les campagnes futures  
-✅ Création de rapports automatisés pour le suivi des campagnes  
-✅ Collaboration avec les équipes marketing pour définir les scénarios et workflows  
-✅ Mise en place de tests A/B pour mesurer l’efficacité des contenus et messages  
-✅ Suivi quotidien des campagnes en cours et résolution des incidents éventuels  
-✅ Reporting et analyse des KPI (taux d’ouverture, clic, conversion, désabonnement)  
-✅ Recommandations pour améliorer les résultats et l’engagement des clients  
+🏆 Key Achievements
 
-EN :  
-✅ Analyzed customer satisfaction surveys (NPS, CSAT)  
-✅ Designed and configured email and other campaigns  
-✅ Segmented audiences and applied precise targeting based on defined criteria  
-✅ Analyzed past performance to optimize future campaigns  
-✅ Created automated reports for campaign tracking  
-✅ Collaborated with marketing teams to define scenarios and workflows  
-✅ Implemented A/B testing to measure content and message effectiveness  
-✅ Monitored ongoing campaigns daily and resolved incidents  
-✅ Reported and analyzed KPIs (open rate, click-through rate, conversion, unsubscribe rate)  
-✅ Provided recommendations to improve results and customer engagement  
+FR :
+- ✅ Optimisé les campagnes marketing et emails via segmentation, ciblage précis et A/B testing, améliorant l’engagement client
+- ✅ Analysé les enquêtes de satisfaction (NPS, CSAT) et les KPI pour guider les décisions marketing
+- ✅ Créé des rapports automatisés et collaboré avec les équipes pour définir workflows et scénarios efficaces
+
+EN :
+- ✅ Optimized marketing and email campaigns through segmentation, precise targeting, and A/B testing, boosting customer engagement
+- ✅ Analyzed customer satisfaction surveys (NPS, CSAT) and KPIs to inform marketing decisions
+- ✅ Built automated reports and collaborated with teams to define efficient workflows and campaign scenarios
 
 #### 🛠️ Tech Stack  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
@@ -364,22 +345,17 @@ Gestion et maintien de la qualité des données CRM en automatisant les processu
 EN :  
 Maintained and optimized the CRM database by automating data cleaning and validation processes to ensure data reliability and improve email deliverability.  
 
-🏆 Réalisations clés / Key Achievements  
-FR :  
-✅ Automatisation du nettoyage des emails en hard bounce et des contacts inactifs  
-✅ Réduction du taux de rebond et amélioration de la délivrabilité  
-✅ Développement de scripts Python d’automatisation pour la maintenance CRM  
-✅ Création de dashboards Power BI pour suivre les métriques de santé du CRM  
-✅ Mise en place de workflows de validation des données et alertes  
-✅ Définition des règles de gouvernance des données et documentation  
+🏆 Key Achievements
 
-EN :  
-✅ Automated cleaning of hard bounces and inactive contacts  
-✅ Reduced bounce rates and improved deliverability  
-✅ Developed Python automation scripts for CRM maintenance  
-✅ Built Power BI dashboards to monitor CRM health metrics  
-✅ Implemented data validation workflows and alerts  
-✅ Defined data governance rules and documentation  
+FR :
+- ✅ Automatisé le nettoyage des emails et des contacts inactifs, réduisant le taux de rebond et améliorant la délivrabilité
+- ✅ Développé des scripts Python et dashboards Power BI pour monitorer la santé du CRM
+- ✅ Mis en place des workflows de validation et défini les règles de gouvernance des données
+
+EN :
+- ✅ Automated cleaning of emails and inactive contacts, reducing bounce rates and improving deliverability
+- ✅ Built Python scripts and Power BI dashboards to monitor CRM health
+- ✅ Implemented validation workflows and defined data governance rules
 
 #### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -432,22 +408,19 @@ Mise en place d’une infrastructure complète de suivi web avec Matomo pour ana
 EN :  
 Implemented a complete web tracking infrastructure using Matomo to analyze website activity — from tag setup to data collection and reporting — enabling data-driven digital optimization.  
 
-🏆 Réalisations clés / Key Achievements  
-FR :  
-✅ Configuration de tags, déclencheurs et variables personnalisés pour le suivi des visiteurs  
-✅ Analyse du comportement utilisateur : sources de trafic, canaux d’acquisition, pages les plus consultées, services visités, appareils et origine géographique  
-✅ Création de dashboards Power BI pour le trafic web, nombre de visiteurs, durée moyenne de session, taux de rebond et engagement  
-✅ Étude des parcours utilisateurs et recommandations d’optimisation  
-✅ Garantie de la conformité RGPD et fiabilité du suivi  
-✅ Intégration de plusieurs sources de données (Matomo, Google Analytics, Dynamics 365)  
+🏆 Key Achievements
 
-EN :  
-✅ Configured custom tags, triggers, and variables for visitor tracking  
-✅ Analyzed user behavior: traffic sources, acquisition channels, most visited pages, services consulted, devices, and geo-origin  
-✅ Built Power BI dashboards for web traffic, visitor count, average session, bounce rate, and engagement  
-✅ Studied user journeys and proposed optimization recommendations  
-✅ Ensured GDPR compliance and tracking reliability  
-✅ Integrated multiple data sources (Matomo, Google Analytics, Dynamics 365)  
+FR :
+- ✅ Configuré le tracking avancé des visiteurs avec tags, déclencheurs et variables personnalisés
+- ✅ Analysé le comportement utilisateur et les parcours pour recommandations d’optimisation
+- ✅ Créé des dashboards Power BI pour trafic, engagement et KPI clés
+- ✅ Intégré plusieurs sources de données (Matomo, Google Analytics, Dynamics 365) tout en assurant la conformité RGPD
+
+EN :
+- ✅ Implemented advanced visitor tracking with custom tags, triggers, and variables
+- ✅ Analyzed user behavior and journeys to provide optimization recommendations
+- ✅ Built Power BI dashboards for traffic, engagement, and key KPIs
+- ✅ Integrated multiple data sources (Matomo, Google Analytics, Dynamics 365) while ensuring GDPR compliance 
 
 #### 🛠️ Tech Stack  
 ![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)  
@@ -501,22 +474,17 @@ Conception d’architectures de données end-to-end et de pipelines automatisés
 EN :
 Designed end-to-end data architectures and automated pipelines to centralize, transform, and valorize marketing and CRM data across the organization.
 
-🏆 Réalisations clés / Key Achievements
+🏆 Key Achievements
+
 FR :
-✅ Conception et mise en œuvre d’une architecture Lakehouse (Bronze / Silver / Gold) sous Microsoft Fabric
-✅ Développement de pipelines d’ingestion de données depuis Dynamics 365 et bases internes
-✅ Création de workflows automatisés de nettoyage et d’enrichissement pour garantir la fiabilité des données
-✅ Modélisation et transformation des données pour améliorer la cohérence analytique
-✅ Production d’une documentation technique complète (architecture, flux, scripts)
-✅ Collaboration avec les équipes IT et métiers pour aligner les objectifs techniques et fonctionnels
+- ✅ Conception et implémentation Lakehouse Bronze/Silver/Gold sous Microsoft Fabric
+- ✅ Pipelines d’ingestion, nettoyage et transformation des données depuis Dynamics 365 et bases internes
+- ✅ Collaboration IT & métiers et production de documentation technique
 
 EN :
-✅ Designed & implemented Lakehouse architecture (Bronze / Silver / Gold) under Microsoft Fabric
-✅ Developed data ingestion pipelines from Dynamics 365 and internal databases
-✅ Built automated cleaning and enrichment workflows for data reliability
-✅ Modeled and transformed data to improve analytical consistency
-✅ Produced comprehensive technical documentation (architecture, flows, scripts)
-✅ Collaborated with IT and business teams to align technical and functional goals
+- ✅ Designed & implemented Lakehouse (Bronze/Silver/Gold) on Microsoft Fabric
+- ✅ Data ingestion, cleaning & transformation pipelines from Dynamics 365 & internal DBs
+- ✅ Collaboration with IT & business teams and technical documentation
 
 **Tech Stack:**
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
@@ -565,18 +533,17 @@ Conception et automatisation de pipelines de données pour le suivi en temps ré
 EN :
 Designed and automated data pipelines for real-time mobile network monitoring, anomaly detection, and performance optimization.
 
-🏆 Réalisations clés / Key Achievements
+🏆 Key Achievements
+
 FR :
-✅ Automatisation des pipelines ETL pour la collecte continue des données de signal
-✅ Mise en place de détection d’anomalies sur séries temporelles pour identifier rapidement les problèmes réseau
-✅ Développement de dashboards en temps réel pour visualiser les KPIs et les métriques de performance
-✅ Réduction du temps de réponse aux incidents de 40 % grâce à une surveillance proactive
+- ✅ Automatisation des pipelines ETL pour collecte continue des données de signal
+- ✅ Détection d’anomalies sur séries temporelles pour identification rapide des problèmes réseau
+- ✅ Dashboards en temps réel et réduction de 40 % du temps de réponse aux incidents
 
 EN :
-✅ Automated ETL pipelines for continuous signal data collection
-✅ Implemented time series anomaly detection to identify network issues early
-✅ Developed real-time dashboards to visualize KPIs and performance metrics
-✅ Reduced incident response time by 40% through proactive monitoring
+- ✅ Automated ETL pipelines for continuous signal data collection
+- ✅ Time series anomaly detection to quickly identify network issues
+- ✅ Real-time dashboards and 40% reduction in incident response time
 
 **Tech Stack:**
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
