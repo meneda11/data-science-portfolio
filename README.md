@@ -423,11 +423,11 @@ EN :
 - ✅ Integrated multiple data sources (Matomo, Google Analytics, Dynamics 365) while ensuring GDPR compliance 
 
 #### 🛠️ Tech Stack  
-![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) 
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### 💡 Skills Demonstrated  
 - Web Analytics & Tag Management  
