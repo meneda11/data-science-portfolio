@@ -414,13 +414,11 @@ FR :
 - ✅ Configuré le tracking avancé des visiteurs avec tags, déclencheurs et variables personnalisés
 - ✅ Analysé le comportement utilisateur et les parcours pour recommandations d’optimisation
 - ✅ Créé des dashboards Power BI pour trafic, engagement et KPI clés
-- ✅ Intégré plusieurs sources de données (Matomo, Google Analytics, Dynamics 365) tout en assurant la conformité RGPD
 
 EN :
 - ✅ Implemented advanced visitor tracking with custom tags, triggers, and variables
 - ✅ Analyzed user behavior and journeys to provide optimization recommendations
-- ✅ Built Power BI dashboards for traffic, engagement, and key KPIs
-- ✅ Integrated multiple data sources (Matomo, Google Analytics, Dynamics 365) while ensuring GDPR compliance 
+- ✅ Built Power BI dashboards for traffic, engagement, and key KPIs 
 
 #### 🛠️ Tech Stack  
 ![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white) 
