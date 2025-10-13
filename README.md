@@ -259,9 +259,13 @@ EN :
 
 ## 📊 Marketing Data & Web/CRM Analytics
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📧 Marketing Data Intelligence  
 
-**Power BI • Fabric • Dynamics 365 
+**Power BI • Fabric • Dynamics 365**  
 
 Marketing dashboards, NPS analysis, and AI-powered business signal detection.  
 
@@ -272,48 +276,48 @@ Marketing dashboards, NPS analysis, and AI-powered business signal detection.
 
 **Domain:** Marketing Analytics | **Type:** Professional Project | **Date:** 2025  
 
-🧩 Contexte / Context
-FR :
-Exploitation des données marketing et commerciales pour générer des insights actionnables à travers des KPIs et dashboards, optimisation des opérations CRM, et mise en place de campagnes efficaces.
+🧩 Contexte / Context  
+FR :  
+Exploitation des données marketing et commerciales pour générer des insights actionnables à travers des KPIs et dashboards, optimisation des opérations CRM, et mise en place de campagnes efficaces.  
 
-EN :
-Leveraged marketing and sales data to generate actionable insights through KPIs and dashboards, optimized CRM operations, and implemented efficient campaigns.
+EN :  
+Leveraged marketing and sales data to generate actionable insights through KPIs and dashboards, optimized CRM operations, and implemented efficient campaigns.  
 
-🏆 Réalisations clés / Key Achievements
-FR :
-✅ Analyse des enquêtes de satisfaction client (NPS, CSAT)
-✅ Conception et paramétrage des campagnes email et autres types de campagnes 
-✅ Segmentation des audiences et ciblage précis selon les critères définis
-✅ Analyse des performances passées pour optimiser les campagnes futures
-✅ Création de rapports automatisés pour le suivi des campagnes
-✅ Collaboration avec les équipes marketing pour définir les scénarios et workflows
-✅ Mise en place de tests A/B pour mesurer l’efficacité des contenus et messages
-✅ Suivi quotidien des campagnes en cours et résolution des incidents éventuels
-✅ Reporting et analyse des KPI (taux d’ouverture, clic, conversion, désabonnement)
-✅ Recommandations pour améliorer les résultats et l’engagement des clients
+🏆 Réalisations clés / Key Achievements  
+FR :  
+✅ Analyse des enquêtes de satisfaction client (NPS, CSAT)  
+✅ Conception et paramétrage des campagnes email et autres types de campagnes  
+✅ Segmentation des audiences et ciblage précis selon les critères définis  
+✅ Analyse des performances passées pour optimiser les campagnes futures  
+✅ Création de rapports automatisés pour le suivi des campagnes  
+✅ Collaboration avec les équipes marketing pour définir les scénarios et workflows  
+✅ Mise en place de tests A/B pour mesurer l’efficacité des contenus et messages  
+✅ Suivi quotidien des campagnes en cours et résolution des incidents éventuels  
+✅ Reporting et analyse des KPI (taux d’ouverture, clic, conversion, désabonnement)  
+✅ Recommandations pour améliorer les résultats et l’engagement des clients  
 
-EN :
-✅ Analyzed customer satisfaction surveys (NPS, CSAT)
-✅ Designed and configured email and other campaigns
-✅ Segmented audiences and applied precise targeting based on defined criteria
-✅ Analyzed past performance to optimize future campaigns
-✅ Created automated reports for campaign tracking
-✅ Collaborated with marketing teams to define scenarios and workflows
-✅ Implemented A/B testing to measure content and message effectiveness
-✅ Monitored ongoing campaigns daily and resolved incidents
-✅ Reported and analyzed KPIs (open rate, click-through rate, conversion, unsubscribe rate)
-✅ Provided recommendations to improve results and customer engagement 
+EN :  
+✅ Analyzed customer satisfaction surveys (NPS, CSAT)  
+✅ Designed and configured email and other campaigns  
+✅ Segmented audiences and applied precise targeting based on defined criteria  
+✅ Analyzed past performance to optimize future campaigns  
+✅ Created automated reports for campaign tracking  
+✅ Collaborated with marketing teams to define scenarios and workflows  
+✅ Implemented A/B testing to measure content and message effectiveness  
+✅ Monitored ongoing campaigns daily and resolved incidents  
+✅ Reported and analyzed KPIs (open rate, click-through rate, conversion, unsubscribe rate)  
+✅ Provided recommendations to improve results and customer engagement  
 
 #### 🛠️ Tech Stack  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)  
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)  
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
+![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)  
 
 #### 💡 Skills Demonstrated  
 - Marketing Analytics & KPI Design  
@@ -332,13 +336,11 @@ EN :
 </details>
 
 </td>
-</tr>
-</table>
-
----
+<td width="50%" valign="top">
 
 ### 🗄️ CRM Data Quality & Automation  
-**Python • Dynamics 365 • Power BI • Azure Logic Apps**
+
+**Python • Dynamics 365 • Power BI • Azure Logic Apps**  
 
 Automated CRM cleaning and data quality optimization.  
 
@@ -349,39 +351,39 @@ Automated CRM cleaning and data quality optimization.
 
 **Domain:** Data Engineering & CRM | **Type:** Professional Project | **Date:** 2025  
 
-🧩 Contexte / Context
-FR :
-Gestion et maintien de la qualité des données CRM en automatisant les processus de nettoyage et de validation pour garantir la fiabilité des données et améliorer la délivrabilité des emails.
+🧩 Contexte / Context  
+FR :  
+Gestion et maintien de la qualité des données CRM en automatisant les processus de nettoyage et de validation pour garantir la fiabilité des données et améliorer la délivrabilité des emails.  
 
-EN :
-Maintained and optimized the CRM database by automating data cleaning and validation processes to ensure data reliability and improve email deliverability.
+EN :  
+Maintained and optimized the CRM database by automating data cleaning and validation processes to ensure data reliability and improve email deliverability.  
 
-🏆 Réalisations clés / Key Achievements
-FR :
-✅ Automatisation du nettoyage des emails en hard bounce et des contacts inactifs
-✅ Réduction du taux de rebond et amélioration de la délivrabilité
-✅ Développement de scripts Python d’automatisation pour la maintenance CRM
-✅ Création de dashboards Power BI pour suivre les métriques de santé du CRM
-✅ Mise en place de workflows de validation des données et alertes
-✅ Définition des règles de gouvernance des données et documentation
+🏆 Réalisations clés / Key Achievements  
+FR :  
+✅ Automatisation du nettoyage des emails en hard bounce et des contacts inactifs  
+✅ Réduction du taux de rebond et amélioration de la délivrabilité  
+✅ Développement de scripts Python d’automatisation pour la maintenance CRM  
+✅ Création de dashboards Power BI pour suivre les métriques de santé du CRM  
+✅ Mise en place de workflows de validation des données et alertes  
+✅ Définition des règles de gouvernance des données et documentation  
 
-EN :
-✅ Automated cleaning of hard bounces and inactive contacts
-✅ Reduced bounce rates and improved deliverability
-✅ Developed Python automation scripts for CRM maintenance
-✅ Built Power BI dashboards to monitor CRM health metrics
-✅ Implemented data validation workflows and alerts
-✅ Defined data governance rules and documentation 
+EN :  
+✅ Automated cleaning of hard bounces and inactive contacts  
+✅ Reduced bounce rates and improved deliverability  
+✅ Developed Python automation scripts for CRM maintenance  
+✅ Built Power BI dashboards to monitor CRM health metrics  
+✅ Implemented data validation workflows and alerts  
+✅ Defined data governance rules and documentation  
 
 #### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
-![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)  
+![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
 
 #### 💡 Skills Demonstrated  
 - CRM Data Management  
@@ -399,15 +401,14 @@ EN :
 
 </details>
 
----
-
-<table>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 📈 Web Analytics & Tracking  
 
-**Matomo • Power BI • Google Analytics • Dynamics 365**
+**Matomo • Power BI • Google Analytics • Dynamics 365**  
 
 End-to-end web tracking and digital performance optimization.  
 
@@ -418,36 +419,36 @@ End-to-end web tracking and digital performance optimization.
 
 **Domain:** Web Analytics & BI | **Type:** Professional Project | **Date:** 2025  
 
-🧩 Contexte / Context
-FR :
-Mise en place d’une infrastructure complète de suivi web avec Matomo pour analyser l’activité du site — de la configuration des tags à la collecte et au reporting des données — permettant une optimisation digitale basée sur les données.
+🧩 Contexte / Context  
+FR :  
+Mise en place d’une infrastructure complète de suivi web avec Matomo pour analyser l’activité du site — de la configuration des tags à la collecte et au reporting des données — permettant une optimisation digitale basée sur les données.  
 
-EN :
-Implemented a complete web tracking infrastructure using Matomo to analyze website activity — from tag setup to data collection and reporting — enabling data-driven digital optimization.
+EN :  
+Implemented a complete web tracking infrastructure using Matomo to analyze website activity — from tag setup to data collection and reporting — enabling data-driven digital optimization.  
 
-🏆 Réalisations clés / Key Achievements
-FR :
-✅ Configuration de tags, déclencheurs et variables personnalisés pour le suivi des visiteurs
-✅ Analyse du comportement utilisateur : sources de trafic, canaux d’acquisition, pages les plus consultées, services visités, appareils et origine géographique
-✅ Création de dashboards Power BI pour le trafic web, nombre de visiteurs, durée moyenne de session, taux de rebond et engagement
-✅ Étude des parcours utilisateurs et recommandations d’optimisation
-✅ Garantie de la conformité RGPD et fiabilité du suivi
-✅ Intégration de plusieurs sources de données (Matomo, Google Analytics, Dynamics 365)
+🏆 Réalisations clés / Key Achievements  
+FR :  
+✅ Configuration de tags, déclencheurs et variables personnalisés pour le suivi des visiteurs  
+✅ Analyse du comportement utilisateur : sources de trafic, canaux d’acquisition, pages les plus consultées, services visités, appareils et origine géographique  
+✅ Création de dashboards Power BI pour le trafic web, nombre de visiteurs, durée moyenne de session, taux de rebond et engagement  
+✅ Étude des parcours utilisateurs et recommandations d’optimisation  
+✅ Garantie de la conformité RGPD et fiabilité du suivi  
+✅ Intégration de plusieurs sources de données (Matomo, Google Analytics, Dynamics 365)  
 
-EN :
-✅ Configured custom tags, triggers, and variables for visitor tracking
-✅ Analyzed user behavior: traffic sources, acquisition channels, most visited pages, services consulted, devices, and geo-origin
-✅ Built Power BI dashboards for web traffic, visitor count, average session, bounce rate, and engagement
-✅ Studied user journeys and proposed optimization recommendations
-✅ Ensured GDPR compliance and tracking reliability
-✅ Integrated multiple data sources (Matomo, Google Analytics, Dynamics 365) 
+EN :  
+✅ Configured custom tags, triggers, and variables for visitor tracking  
+✅ Analyzed user behavior: traffic sources, acquisition channels, most visited pages, services consulted, devices, and geo-origin  
+✅ Built Power BI dashboards for web traffic, visitor count, average session, bounce rate, and engagement  
+✅ Studied user journeys and proposed optimization recommendations  
+✅ Ensured GDPR compliance and tracking reliability  
+✅ Integrated multiple data sources (Matomo, Google Analytics, Dynamics 365)  
 
 #### 🛠️ Tech Stack  
-![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 #### 💡 Skills Demonstrated  
 - Web Analytics & Tag Management  
@@ -467,8 +468,11 @@ EN :
 
 </td>
 <td width="50%" valign="top">
-  
----
+<!-- Laisser vide si pas de 4e projet -->
+</td>
+</tr>
+</table>
+
 
 ## 🔧 Data Engineering
 
