@@ -40,6 +40,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 <summary><b>📖 View Details</b></summary>
 
 🧩 Contexte / Context
+
 FR :
 Développement d’un système IA de détection de signaux faibles à l’échelle entreprise sur des données multi-sources complexes, permettant la détection précoce d’anomalies et la génération de recommandations prédictives intelligentes.
 
@@ -103,6 +104,7 @@ EN :
 <summary><b>📖 View Details</b></summary>
 
 🧩 Contexte / Context
+
 FR :
 Mise en place d’un pipeline MLOps complet pour prédire les défaillances d’équipements 24 heures à l’avance, permettant des stratégies de maintenance proactive avec déploiement et suivi automatisés.
 
@@ -161,6 +163,7 @@ EN :
 <summary><b>📖 View Details</b></summary>
 
 🧩 Contexte / Context
+
 FR :
 Développement d’un pipeline complet pour l’analyse de données PCR simulées afin de comprendre l’amplification des signaux biologiques et la quantification de l’ADN.
 
@@ -215,6 +218,7 @@ Reproducible workflow for experimental PCR data quantification and genetic targe
 <summary><b>📖 View Details</b></summary>
 
 🧩 Contexte / Context
+
 FR :
 Collaboration avec des chercheurs pour développer un système IA de suivi de la santé des colonies d’abeilles via l’analyse de données multi-capteurs et la vision par ordinateur.
 
