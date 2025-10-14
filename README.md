@@ -287,13 +287,13 @@ Leveraged marketing and sales data to generate actionable insights through KPIs 
 **FR** :
 - ✅ Analyser les performances des campagnes marketing et emails via segmentation, ciblage précis et A/B testing, améliorant l’engagement client
 - ✅ Analyser les enquêtes de satisfaction (NPS, CSAT, Score) et les KPI pour guider les décisions marketing
-- ✅ Mise en place d'un outil d'aide à la décision
+- ✅ Mise en place d'un moteur de scoring et de recommandation assisté et d'un outil d'aide à la décision pour le ciblage et la vision 360° des clients
 - ✅ Créer des tableaux de bord automatisés et collaborer avec les équipes pour définir les workflows et scénarios efficaces
 
 **EN** :
 - ✅ Optimized marketing and email campaigns through segmentation, precise targeting, and A/B testing, boosting customer engagement
 - ✅ Analyzed customer satisfaction surveys (NPS, CSAT, Score) and KPIs to inform marketing decisions
-- ✅ Implementation of a decision support tool
+- ✅ Implementation of an assisted scoring and recommendation engine, along with a decision-support tool for client targeting and 360° customer insights
 - ✅ Built automated dashboards and collaborated with teams to define efficient workflows and campaign scenarios
 
 #### 🛠️ Tech Stack  
