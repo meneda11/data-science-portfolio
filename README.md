@@ -403,25 +403,25 @@ End-to-end web tracking and digital performance optimization.
 
 **Domain:** Web Analytics & BI | **Type:** Professional Project | **Date:** 2025  
 
-🧩 Contexte / Context 
+🧩 Contexte / Context
 
 **FR** :  
-Mise en place d’une infrastructure complète de suivi web avec Matomo pour analyser l’activité du site — de la configuration des tags à la collecte et au reporting des données — permettant une optimisation digitale basée sur les données.  
+Mise en place du suivi web avec Matomo, de la configuration des balises et déclencheurs à la collecte et l’analyse des données, pour comprendre le comportement des visiteurs et optimiser les actions marketing.
 
 **EN** :  
-Implemented a complete web tracking infrastructure using Matomo to analyze website activity — from tag setup to data collection and reporting — enabling data-driven digital optimization.  
+Implemented web tracking with Matomo, from tag and trigger setup to data collection and analysis, to understand user behavior and optimize marketing actions.
 
 🏆 Key Achievements
 
 **FR** :
-- ✅ Configurer le tracking avancé des visiteurs avec balises, déclencheurs et variables personnalisés
-- ✅ Analyser le comportement utilisateur et les parcours pour recommandations d’optimisation
-- ✅ Créer des dashboards Power BI pour trafic, engagement et KPI clés
+- ✅ Configuration avancée des balises, déclencheurs et variables personnalisées pour le suivi des visiteurs  
+- ✅ Analyse des parcours et comportements utilisateurs pour proposer des optimisations marketing  
+- ✅ Création de dashboards Power BI pour suivre trafic, engagement et performance des campagnes  
 
 **EN** :
-- ✅ Implemented advanced visitor tracking with custom tags, triggers, and variables
-- ✅ Analyzed user behavior and journeys to provide optimization recommendations
-- ✅ Built Power BI dashboards for traffic, engagement, and key KPIs 
+- ✅ Implemented advanced tags, triggers, and custom variables for visitor tracking  
+- ✅ Analyzed user journeys and behavior to provide marketing optimization recommendations  
+- ✅ Built Power BI dashboards to monitor traffic, engagement, and campaign performance
 
 #### 🛠️ Tech Stack  
 ![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white) 
