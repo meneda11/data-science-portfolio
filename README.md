@@ -454,23 +454,21 @@ Designed, collected, and analyzed satisfaction surveys (NPS, CSAT, CES) to measu
 🏆 Key Achievements  
 
 **FR** :
-- ✅ Création et intégration d’enquêtes dans Dynamics 365 / Power Automate  
+
 - ✅ Analyse de la satisfaction et visualisation des scores (NPS, CSAT, CES)  
 - ✅ Identification des leviers d’amélioration à partir des feedbacks clients  
 - ✅ Reporting interactif Power BI pour le suivi de la satisfaction client  
 
 **EN** :
-- ✅ Designed surveys integrated with Dynamics 365 & Power Automate  
+
 - ✅ Visualized satisfaction KPIs (NPS, CSAT, CES) in Power BI  
 - ✅ Identified improvement levers from customer feedback  
 - ✅ Built interactive dashboards for management reporting  
 
 #### 🛠️ Tech Stack  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
 ![Microsoft Forms](https://img.shields.io/badge/Microsoft%20Forms-0078D4?style=flat&logo=microsoft-forms&logoColor=white) 
-![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 #### 💡 Skills Demonstrated  
 - Customer Satisfaction Analytics (NPS, CSAT, CES)  
