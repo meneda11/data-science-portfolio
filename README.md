@@ -285,39 +285,31 @@ Leveraged marketing and sales data to generate actionable insights through KPIs 
 🏆 Key Achievements
 
 **FR** :
-- ✅ Analyser les performances des campagnes marketing et emails via segmentation, ciblage précis et A/B testing, améliorant l’engagement client
-- ✅ Analyser les enquêtes de satisfaction (NPS, CSAT, Score) et les KPI pour guider les décisions marketing
-- ✅ Mise en place d'un moteur de scoring et de recommandation assisté et d'un outil d'aide à la décision pour le ciblage et la vision 360° des clients
-- ✅ Créer des tableaux de bord automatisés et collaborer avec les équipes pour définir les workflows et scénarios efficaces
+- ✅ Analyser les performances des campagnes marketing et emails via segmentation, ciblage précis et A/B testing, améliorant l’engagement client  
+- ✅ Mise en place d'un moteur de scoring et d'un outil d'aide à la décision pour le ciblage et la vision 360° des clients  
+- ✅ Créer des tableaux de bord automatisés et collaborer avec les équipes pour définir les workflows efficaces  
 
 **EN** :
-- ✅ Optimized marketing and email campaigns through segmentation, precise targeting, and A/B testing, boosting customer engagement
-- ✅ Analyzed customer satisfaction surveys (NPS, CSAT, Score) and KPIs to inform marketing decisions
-- ✅ Implementation of an assisted scoring and recommendation engine, along with a decision-support tool for client targeting and 360° customer insights
-- ✅ Built automated dashboards and collaborated with teams to define efficient workflows and campaign scenarios
+- ✅ Optimized marketing and email campaigns through segmentation, targeting, and A/B testing  
+- ✅ Implemented a scoring engine and decision-support tool for 360° customer insights  
+- ✅ Built automated dashboards and defined efficient workflows with business teams  
 
 #### 🛠️ Tech Stack  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) 
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white) 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) 
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) 
-![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
 
 #### 💡 Skills Demonstrated  
 - Marketing Analytics & KPI Design  
-- Customer Satisfaction Analysis (NPS, CSAT)  
-- Advanced DAX & Power Query M  
 - AI-Powered Business Intelligence  
 - Campaign Performance Analysis  
 - Data Governance  
 
 #### 💼 Business Impact  
 - Improved marketing decisions through data  
-- Enhanced satisfaction monitoring  
 - Actionable insights for managers  
 - Stronger campaign performance  
 
@@ -350,38 +342,32 @@ Maintained and optimized the CRM database by automating data cleaning and valida
 🏆 Key Achievements
 
 **FR** :
-- ✅ Automatiser le nettoyage des emails et des contacts inactifs, réduisant le taux de rebond et améliorant la délivrabilité
-- ✅ Créer des rapports statistiques pour présenter la santé du CRM
-- ✅ Mettre en place des workflows Python intégrant Phantom Buster pour détecter, traiter et enrichir les contacts invalides
+- ✅ Automatiser le nettoyage des emails et des contacts inactifs, réduisant le taux de rebond  
+- ✅ Créer des rapports statistiques pour présenter la santé du CRM  
+- ✅ Mettre en place des workflows Python intégrant Phantom Buster  
 
 **EN** :
-- ✅ Automated cleaning of emails and inactive contacts, reducing bounce rates and improving deliverability
-- ✅ Built statistical reports and Power BI to present CRM health
-- ✅ Implemented Python workflows integrating Phantom Buster to detect, process, and enrich invalid contacts
+- ✅ Automated cleaning of emails and inactive contacts  
+- ✅ Built CRM health statistical reports  
+- ✅ Implemented Python workflows with Phantom Buster  
 
 #### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
 ![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white) 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 #### 💡 Skills Demonstrated  
 - CRM Data Management  
 - Process Automation (Python)  
 - Data Quality & Governance  
 - Email Deliverability Optimization  
-- Data Monitoring with Power BI  
 
 #### 💼 Business Impact  
 - Significant reduction of bounce rates  
 - Improved data reliability  
 - Automated repetitive processes  
-- Real-time CRM performance visibility  
-- Cost reduction through automation  
 
 </details>
 
@@ -406,49 +392,99 @@ End-to-end web tracking and digital performance optimization.
 🧩 Contexte / Context
 
 **FR** :  
-Mise en place du suivi web avec Matomo, de la configuration des balises et déclencheurs à la collecte et l’analyse des données, pour comprendre le comportement des visiteurs et optimiser les actions marketing.
+Mise en place du suivi web avec Matomo et Power BI pour comprendre le comportement des visiteurs et optimiser les actions marketing.  
 
 **EN** :  
-Implemented web tracking with Matomo, from tag and trigger setup to data collection and analysis, to understand user behavior and optimize marketing actions.
+Implemented web tracking with Matomo and Power BI to analyze user behavior and optimize marketing actions.  
 
 🏆 Key Achievements
 
 **FR** :
-- ✅ Configuration avancée des balises, déclencheurs et variables personnalisées pour le suivi des visiteurs  
-- ✅ Analyse des parcours et comportements utilisateurs pour proposer des optimisations marketing  
-- ✅ Création de dashboards Power BI pour suivre trafic, engagement et performance des campagnes  
+- ✅ Configuration avancée des balises et déclencheurs pour le suivi des visiteurs  
+- ✅ Analyse des parcours utilisateurs et recommandations marketing  
+- ✅ Dashboards Power BI pour suivre le trafic et les performances  
 
 **EN** :
-- ✅ Implemented advanced tags, triggers, and custom variables for visitor tracking  
-- ✅ Analyzed user journeys and behavior to provide marketing optimization recommendations  
-- ✅ Built Power BI dashboards to monitor traffic, engagement, and campaign performance
+- ✅ Advanced tag and trigger configuration  
+- ✅ User journey analysis and marketing recommendations  
+- ✅ Power BI dashboards for traffic & performance monitoring  
 
 #### 🛠️ Tech Stack  
 ![Matomo](https://img.shields.io/badge/Matomo-013243?style=flat&logo=matomo&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) 
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  
+
 #### 💡 Skills Demonstrated  
 - Web Analytics & Tag Management  
 - User Behavior Analysis  
 - Dashboard Design & Visualization  
-- Digital Marketing Analytics  
-- GDPR Compliance  
-- Cross-functional Collaboration  
 
 #### 💼 Business Impact  
 - Improved visibility on digital performance  
 - Enhanced understanding of user behavior  
-- Data-driven marketing strategy alignment  
-- Better targeting and lead generation  
 
 </details>
 
 </td>
+
 <td width="50%" valign="top">
-<!-- Laisser vide si pas de 4e projet -->
+
+### 🧾 Enquêtes de Satisfaction & NPS Analysis  
+
+**Power BI • Excel • Dynamics 365 • Forms / Survey Tools**  
+
+Survey analytics, customer feedback modeling, and satisfaction performance tracking.  
+
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#survey-details)
+
+<details id="survey-details">
+<summary><b>📖 View Details</b></summary>
+
+**Domain:** Customer Experience Analytics | **Type:** Professional Project | **Date:** 2025  
+
+🧩 Contexte / Context  
+
+**FR** :  
+Mise en place, collecte et analyse d’enquêtes de satisfaction (NPS, CSAT, CES) afin de mesurer l’expérience client et de piloter les actions correctives et marketing.  
+
+**EN** :  
+Designed, collected, and analyzed satisfaction surveys (NPS, CSAT, CES) to measure customer experience and guide improvement and marketing actions.  
+
+🏆 Key Achievements  
+
+**FR** :
+- ✅ Création et intégration d’enquêtes dans Dynamics 365 / Power Automate  
+- ✅ Analyse de la satisfaction et visualisation des scores (NPS, CSAT, CES)  
+- ✅ Identification des leviers d’amélioration à partir des feedbacks clients  
+- ✅ Reporting interactif Power BI pour le suivi de la satisfaction client  
+
+**EN** :
+- ✅ Designed surveys integrated with Dynamics 365 & Power Automate  
+- ✅ Visualized satisfaction KPIs (NPS, CSAT, CES) in Power BI  
+- ✅ Identified improvement levers from customer feedback  
+- ✅ Built interactive dashboards for management reporting  
+
+#### 🛠️ Tech Stack  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
+![Microsoft Forms](https://img.shields.io/badge/Microsoft%20Forms-0078D4?style=flat&logo=microsoft-forms&logoColor=white) 
+![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+#### 💡 Skills Demonstrated  
+- Customer Satisfaction Analytics (NPS, CSAT, CES)  
+- Survey Design & Automation  
+- Feedback Analysis & Reporting  
+- Data Visualization  
+
+#### 💼 Business Impact  
+- Improved customer retention through feedback-driven actions  
+- Enhanced visibility on satisfaction metrics  
+- Better alignment between marketing and service quality  
+
+</details>
+
 </td>
 </tr>
 </table>
