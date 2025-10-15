@@ -213,7 +213,7 @@ Reproducible workflow for experimental PCR data quantification and genetic targe
 🧩 Contexte / Context
 
 **FR** :
-Collaboration avec des chercheurs pour développer un système IA de suivi de la santé des colonies d’abeilles via l’analyse de données multi-capteurs et la vision par ordinateur.
+Développer un système IA de suivi de la santé des colonies d’abeilles via l’analyse de données multi-capteurs et la vision par ordinateur.
 
 **EN** :
 Collaborated with researchers to develop an AI-powered system for monitoring bee colony health through multi-sensor data analysis and computer vision.
@@ -285,9 +285,9 @@ Leveraged marketing and sales data to generate actionable insights through KPIs 
 🏆 Key Achievements
 
 **FR** :
-- ✅ Analyser les performances des campagnes marketing et emails via segmentation, ciblage précis et A/B testing, améliorant l’engagement client  
-- ✅ Mise en place d'un moteur de scoring et d'un outil d'aide à la décision pour le ciblage et la vision 360° des clients  
-- ✅ Créer des tableaux de bord automatisés et collaborer avec les équipes pour définir les workflows efficaces  
+- ✅ Analyse des campagnes marketing et emailing 
+- ✅ Segmentation et scoring des clients   
+- ✅ Tableaux de bord et outil d’aide à la décision pour le ciblage 
 
 **EN** :
 - ✅ Optimized marketing and email campaigns through segmentation, targeting, and A/B testing  
@@ -342,8 +342,9 @@ Maintained and optimized the CRM database by automating data cleaning and valida
 🏆 Key Achievements
 
 **FR** :
-- ✅ Automatiser le nettoyage des emails et des contacts inactifs, réduisant le taux de rebond  
-- ✅ Créer des rapports statistiques pour présenter la santé du CRM  
+- ✅ Automatisation du nettoyage des emails et correction des adresses emails en hardbounces
+- ✅ Gestion des contacts inactifs et conformité RGPD
+- ✅ Nettoyage, analyse et création des rapports statistiques pour présenter la santé du CRM  
 - ✅ Mettre en place des workflows Python intégrant Phantom Buster  
 
 **EN** :
@@ -455,13 +456,13 @@ Designed, collected, and analyzed satisfaction surveys (NPS, CSAT, CES) to measu
 
 **FR** :
 
-- ✅ Analyse de la satisfaction et visualisation des scores (NPS, CSAT, CES)  
+- ✅ Analyse de la satisfaction et visualisation des scores (NPS, CSAT, SCORE)  
 - ✅ Identification des leviers d’amélioration à partir des feedbacks clients  
 - ✅ Reporting interactif Power BI pour le suivi de la satisfaction client  
 
 **EN** :
 
-- ✅ Visualized satisfaction KPIs (NPS, CSAT, CES) in Power BI  
+- ✅ Visualized satisfaction KPIs (NPS, CSAT, SCORE)  
 - ✅ Identified improvement levers from customer feedback  
 - ✅ Built interactive dashboards for management reporting  
 
@@ -573,8 +574,8 @@ Designed and automated data pipelines for real-time mobile network monitoring, a
 🏆 Key Achievements
 
 **FR** :
-- ✅ Automatisation des pipelines ETL pour collecte continue des données de signal
-- ✅ Détection d’anomalies sur séries temporelles pour identification rapide des problèmes réseau
+- ✅ Automatisation des pipelines ETL pour collecte continue des données 
+- ✅ Détection d’anomalies par l'analyse de séries temporelles pour identification rapide des problèmes réseau
 - ✅ Dashboards en temps réel et réduction de 40 % du temps de réponse aux incidents
 
 **EN** :
