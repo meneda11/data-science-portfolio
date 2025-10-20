@@ -168,7 +168,7 @@ Mise en place d’un pipeline complet de maintenance prédictive pour anticiper 
 </details>
 
   </td>
-</tr>
+  
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 🔬 Analyse et modélisation de données PCR en biologie moléculaire 
@@ -207,7 +207,9 @@ Pipeline automatisé pour l’analyse de données PCR *SinglePlex*, modélisatio
 </details>
 
 </td>
+</tr> <!-- ✅ Fin de la seconde ligne -->
 
+<tr>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 🐝 Analyse des données apicoles à l'aide de l'IA  
