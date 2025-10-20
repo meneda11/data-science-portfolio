@@ -30,6 +30,55 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 <tr>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
+### 🧠 TechWatch Agent – Assistant IA de veille technologique  
+**Domain:** IA & Automatisation | **Type:** Personal Project | **Date:** 2025  
+[![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#techwatch-details)
+
+<details id="techwatch-details">
+<summary><b>📖 View Details</b></summary>
+
+🧩 **Contexte**  
+Conception d’un **assistant IA de veille technologique** capable de collecter, trier et résumer automatiquement les dernières actualités liées à l’IA, au Machine Learning, au Cloud et au DevOps à partir de flux RSS spécialisés.  
+Le système s’appuie sur le modèle **GPT-4o-mini** pour analyser le contenu, identifier les articles pertinents et produire un **rapport synthétique quotidien** consultable via une interface **Streamlit interactive**.
+
+🏆 **Réalisations**  
+- ✅ Développement d’un agent intelligent en Python orchestrant triage, résumé et génération de rapport  
+- ✅ Intégration d’une interface web Streamlit moderne et interactive  
+- ✅ Configuration automatique des flux RSS (OpenAI, AWS ML, Databricks, Hugging Face, etc.)  
+- ✅ Génération d’un rapport structuré et archivé dans un dossier de veille quotidienne  
+- ✅ Utilisation d’un modèle OpenAI économique et rapide (`gpt-4o-mini`) pour un coût < 0,01 € par session  
+
+#### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Feedparser](https://img.shields.io/badge/Feedparser-FF9900?style=flat&logo=rss&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-0078D4?style=flat&logo=python&logoColor=white)
+
+#### 💡 Compétences démontrées  
+- Développement d’agents IA modulaires (triage, résumé, reporting)  
+- Automatisation de workflows d’analyse et de veille technologique  
+- Intégration front-end Python (Streamlit) pour visualisation dynamique  
+- Traitement et filtrage d’informations issues de flux RSS  
+- Optimisation des coûts d’utilisation d’API OpenAI  
+
+#### 💼 Impact et bénéfices  
+- Centralisation automatique de la veille technologique (IA, Cloud, DevOps)  
+- Gain de temps dans la lecture et l’analyse de contenus techniques  
+- Synthèse claire et exploitable pour un suivi quotidien  
+- Base réutilisable pour d’autres projets d’automatisation IA  
+
+#### 🔗 Liens  
+[![GitHub](https://img.shields.io/badge/🔗%20View%20on%20GitHub-black?style=flat&logo=github)](https://github.com/meneda11/techwatch-agent)  
+[![OpenAI](https://img.shields.io/badge/Model-GPT--4o--mini-412991?style=flat&logo=openai&logoColor=white)](https://platform.openai.com/docs/models/gpt-4o-mini)
+
+</details>
+
+</td>
+
+<td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
+
 ### 🎯 Détection de signaux d'affaires potentiels avec l'IA   
 **Domain:** AI/ML | **Type:** Professional Project | **Date:** 2025  
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#ai-reco-details)
