@@ -208,75 +208,70 @@ Développer un système IA de suivi de la santé des colonies d’abeilles via l
 </table>
 
 ## 📊 Marketing Data 
+## 📊 Marketing Data 
 
-<table>
+<table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 📧 Marketing Data Intelligence  
-
 **Power BI • Fabric • Dynamics 365**  
-
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#marketing-intelligence-details)
 
 <details id="marketing-intelligence-details">
 <summary><b>📖 View Details</b></summary>
 
-**Domain:** Marketing Analytics | **Type:** Professional Project | **Date:** 2025  
+**Domain:** Marketing Analytics | **Type:** Professional Project | **Date:** 2025  
 
-🧩 Contexte 
-
+🧩 **Contexte**  
 Analyse des performances emailing, segmentation et ciblage marketing, exploitation des données clients et création de tableaux de bord décisionnels pour le pilotage stratégique.  
 
-🏆 Réalisations
-- ✅ Analyse des campagnes marketing et emailing 
-- ✅ Segmentation, ciblage et scoring des clients   
-- ✅ Tableaux de bord et outil d’aide à la décision
+🏆 **Réalisations**
+- ✅ Analyse des campagnes marketing et emailing  
+- ✅ Segmentation, ciblage et scoring des clients  
+- ✅ Tableaux de bord et outil d’aide à la décision  
 
 #### 🛠️ Tech Stack  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) 
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white) 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) 
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white) 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) 
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white)
 
-#### 💡 Compétences démontrées
-- Analyse marketing et conception d’indicateurs de performance (KPI)
-- Intelligence décisionnelle assistée par l’IA
-- Analyse de la performance des campagnes
-- Gouvernance et fiabilité des données
+#### 💡 Compétences démontrées  
+- Analyse marketing et conception d’indicateurs de performance (KPI)  
+- Intelligence décisionnelle assistée par l’IA  
+- Analyse de la performance des campagnes  
+- Gouvernance et fiabilité des données  
 
-#### 💼 Impact métier
-- Prises de décision marketing optimisées grâce aux données
-- Production d’insights exploitables pour les managers
-- Meilleure performance globale des campagnes
+#### 💼 Impact métier  
+- Prises de décision marketing optimisées grâce aux données  
+- Production d’insights exploitables pour les managers  
+- Meilleure performance globale des campagnes  
 
 </details>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 🗄️ CRM Data Quality & Automation  
-
 **Python • Dynamics 365 • Power BI • Azure Logic Apps**  
-
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#crm-details)
 
 <details id="crm-details">
 <summary><b>📖 View Details</b></summary>
 
-**Domain:** Data Engineering & CRM | **Type:** Professional Project | **Date:** 2025  
+**Domain:** Data Engineering & CRM | **Type:** Professional Project | **Date:** 2025  
 
-🧩 Contexte   
-
+🧩 **Contexte**  
 Gestion et maintien de la qualité des données CRM en automatisant les processus de nettoyage et de validation pour garantir la fiabilité des données et améliorer la délivrabilité des emails.  
 
-🏆 Réalisations
-- ✅ Automatisation du nettoyage des emails et correction des adresses emails en hardbounces
-- ✅ Gestion des contacts inactifs et conformité RGPD
-- ✅ Nettoyage, analyse et création des rapports statistiques pour présenter la santé du CRM  
-- ✅ Mettre en place des workflows Python intégrant Phantom Buster  
+🏆 **Réalisations**
+- ✅ Automatisation du nettoyage des emails et correction des hardbounces  
+- ✅ Gestion des contacts inactifs et conformité RGPD  
+- ✅ Rapports statistiques sur la santé du CRM  
+- ✅ Workflows Python intégrant Phantom Buster  
 
 #### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -285,41 +280,39 @@ Gestion et maintien de la qualité des données CRM en automatisant les processu
 ![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
-#### 💡 Compétences démontrées
-- Gestion et gouvernance des données CRM
-- Automatisation des processus (Python)
-- Contrôle de la qualité et fiabilité des données
-- Optimisation de la délivrabilité des emails
+#### 💡 Compétences démontrées  
+- Gestion et gouvernance des données CRM  
+- Automatisation des processus (Python)  
+- Contrôle de la qualité et fiabilité des données  
+- Optimisation de la délivrabilité des emails  
 
-#### 💼 Impact métier
-- Réduction significative des taux de rebond
-- Amélioration de la fiabilité et de la cohérence des données
-- Automatisation des tâches répétitives et gain de productivité
+#### 💼 Impact métier  
+- Réduction significative des taux de rebond  
+- Amélioration de la fiabilité et de la cohérence des données  
+- Automatisation des tâches répétitives et gain de productivité  
 
 </details>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 📈 Web Analytics & Tracking  
-
 **Matomo • Power BI • Google Analytics • Dynamics 365**  
-
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#web-analytics-details)
 
 <details id="web-analytics-details">
 <summary><b>📖 View Details</b></summary>
 
-**Domain:** Web Analytics & BI | **Type:** Professional Project | **Date:** 2025  
+**Domain:** Web Analytics & BI | **Type:** Professional Project | **Date:** 2025  
 
-🧩 Contexte
- 
-Suivi et analyse du comportement des visiteurs afin d’optimiser les actions et la performance digitale. 
+🧩 **Contexte**  
+Suivi et analyse du comportement des visiteurs afin d’optimiser les actions et la performance digitale.  
 
-🏆 Réalisations
-- ✅ Configuration avancée des balises et déclencheurs pour le suivi des visiteurs  
+🏆 **Réalisations**
+- ✅ Configuration avancée des balises et déclencheurs  
 - ✅ Analyse des parcours utilisateurs et recommandations marketing  
 - ✅ Dashboards Power BI pour suivre le trafic et les performances  
 
@@ -329,63 +322,60 @@ Suivi et analyse du comportement des visiteurs afin d’optimiser les actions et
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-#### 💡 Compétences démontrées
-- Analyse web et gestion des balises (Tag Management)
-- Analyse du comportement des utilisateurs
-- Conception et visualisation de tableaux de bord
+#### 💡 Compétences démontrées  
+- Analyse web et gestion des balises (Tag Management)  
+- Analyse du comportement des utilisateurs  
+- Conception et visualisation de tableaux de bord  
 
-#### 💼 Impact métier
-- Meilleure visibilité sur la performance digitale
-- Compréhension approfondie du comportement des utilisateurs
+#### 💼 Impact métier  
+- Meilleure visibilité sur la performance digitale  
+- Compréhension approfondie du comportement des utilisateurs  
 
 </details>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 🧾 Enquêtes de Satisfaction & NPS Analysis  
-
 **Power BI • Excel • Dynamics 365 • Forms / Survey Tools**  
-
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#survey-details)
 
 <details id="survey-details">
 <summary><b>📖 View Details</b></summary>
 
-**Domain:** Customer Experience Analytics | **Type:** Professional Project | **Date:** 2025  
+**Domain:** Customer Experience Analytics | **Type:** Professional Project | **Date:** 2025  
 
-🧩 Contexte 
-
+🧩 **Contexte**  
 Mise en place, collecte et analyse d’enquêtes de satisfaction (NPS, CSAT, CES) afin de mesurer l’expérience client et de piloter les actions correctives et marketing.  
 
-🏆 Réalisation 
+🏆 **Réalisations**
 - ✅ Analyse de la satisfaction et visualisation des scores (NPS, CSAT, SCORE)  
 - ✅ Identification des leviers d’amélioration à partir des feedbacks clients  
 - ✅ Reporting interactif Power BI pour le suivi de la satisfaction client  
 
-
 #### 🛠️ Tech Stack  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat&logo=microsoft-dynamics-365&logoColor=white) 
-![Microsoft Forms](https://img.shields.io/badge/Microsoft%20Forms-0078D4?style=flat&logo=microsoft-forms&logoColor=white) 
+![Microsoft Forms](https://img.shields.io/badge/Microsoft%20Forms-0078D4?style=flat&logo=microsoft-forms&logoColor=white)
 
-#### 💡 Compétences démontrées
-- Analyse de la satisfaction client (NPS, CSAT, CES)
-- Conception et automatisation d’enquêtes
-- Analyse et reporting des retours clients
-- Visualisation et interprétation des données
+#### 💡 Compétences démontrées  
+- Analyse de la satisfaction client (NPS, CSAT, CES)  
+- Conception et automatisation d’enquêtes  
+- Analyse et reporting des retours clients  
+- Visualisation et interprétation des données  
 
-#### 💼 Impact métier
-- Amélioration de la fidélisation grâce à des actions basées sur les retours clients
-- Meilleure visibilité sur les indicateurs de satisfaction
-- Alignement renforcé entre les équipes marketing et métiers
+#### 💼 Impact métier  
+- Amélioration de la fidélisation grâce aux retours clients  
+- Meilleure visibilité sur les indicateurs de satisfaction  
+- Alignement renforcé entre marketing et qualité de service  
 
 </details>
 
 </td>
 </tr>
 </table>
+
 
 
 ## 🔧 Data Engineering
