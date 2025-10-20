@@ -28,7 +28,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
+  <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 🧠 TechWatch Agent – Assistant IA de veille technologique  
 **Domain:** IA & Automatisation | **Type:** Personal Project | **Date:** 2025  
@@ -75,9 +75,9 @@ Le système s’appuie sur le modèle **GPT-4o-mini** pour analyser le contenu, 
 
 </details>
 
-</td>
+  </td>
 
-<td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
+  <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 🎯 Détection de signaux d'affaires potentiels avec l'IA   
 **Domain:** AI/ML | **Type:** Professional Project | **Date:** 2025  
@@ -120,9 +120,11 @@ Développement d’un système d’intelligence artificielle pour la détection 
 
 </details>
 
-</td>
+  </td>
+</tr> <!-- ✅ Fin de la première ligne -->
 
-<td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
+<tr>
+  <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### ⚙️ Industrial Predictive Maintenance  
 **Domaine :** Analyse prédictive | **Type :** Projet académique | **Date :** 2025
