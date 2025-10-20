@@ -30,7 +30,7 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 <tr>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
-### 🎯 Business Signal Detection & Recommendation Engine with AI  
+### 🎯 Détection de signaux d'affaires potentiels avec l'IA   
 **Domain:** AI/ML | **Type:** Professional Project | **Date:** 2025  
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#ai-reco-details)
 
@@ -76,7 +76,7 @@ Développement d’un système d’intelligence artificielle pour la détection 
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### ⚙️ Industrial Predictive Maintenance  
-**Domain:** Predictive Analytics | **Type:** School Project | **Date:** 04/2025 – 06/2025  
+**Domaine :** Analyse prédictive | **Type :** Projet académique | **Date :** 2025
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#predictive-maintenance-details)
 
 <details id="predictive-maintenance-details">
@@ -122,8 +122,8 @@ Mise en place d’un pipeline complet de maintenance prédictive pour anticiper 
 <tr>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
-### 🔬 Single PCR Data Analysis & Modeling  
-**Domain:** Bioinformatics | **Type:** Personal Project | **Date:** 2024  
+### 🔬 Analyse et modélisation de données PCR en biologie moléculaire 
+**Domain:** Data Science appliquée à la biologie moléculaire | **Type:** Personal Project | **Date:** 2024  
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#single-pcr-details)
 
 <details id="single-pcr-details">
@@ -161,8 +161,9 @@ Pipeline automatisé pour l’analyse de données PCR *SinglePlex*, modélisatio
 
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
-### 🐝 Bee Colony Health Monitoring with Computer Vision  
-**Domain:** Computer Vision + IoT | **Type:** Research Project | **Date:** 10/2023 – 03/2024  
+### 🐝 Analyse des données apicoles à l'aide de l'IA  
+**Domaine :** Vision par ordinateur & Analyse de données IoT | **Type :** Projet de recherche | **Date :** 2024
+
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#bee-health-details)
 
 <details id="bee-health-details">
@@ -200,20 +201,18 @@ Développement d’un système de vision par ordinateur et d’analyse multi-cap
 </tr>
 </table>
 
-## 📊 Marketing Data 
+## 📊 Marketing 
 
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
-### 📧 Marketing Data Intelligence  
-**Power BI • Fabric • Dynamics 365**  
+### 📧 Marketing Digital 
+**Domaine :** Marketing Digital (Segmentation & Ciblage) | **Type :** Mission en entreprise | **Date :** 2025
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#marketing-intelligence-details)
 
 <details id="marketing-intelligence-details">
 <summary><b>📖 View Details</b></summary>
-
-**Domain:** Marketing Analytics | **Type:** Professional Project | **Date:** 2025  
 
 🧩 **Contexte**  
 Analyse des performances emailing, segmentation et ciblage marketing, exploitation des données clients et création de tableaux de bord décisionnels pour le pilotage stratégique.  
@@ -247,14 +246,12 @@ Analyse des performances emailing, segmentation et ciblage marketing, exploitati
 </td>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
-### 🗄️ CRM Data Quality & Automation  
-**Python • Dynamics 365 • Power BI • Azure Logic Apps**  
+### 🗄️ Gestion et automatisation de la qualité des données CRM
+**Domaine :** Data Management & CRM | **Type :** Mission en entreprise | **Date :** 2025
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#crm-details)
 
 <details id="crm-details">
 <summary><b>📖 View Details</b></summary>
-
-**Domain:** Data Engineering & CRM | **Type:** Professional Project | **Date:** 2025  
 
 🧩 **Contexte**  
 Gestion et maintien de la qualité des données CRM en automatisant les processus de nettoyage et de validation pour garantir la fiabilité des données et améliorer la délivrabilité des emails.  
@@ -292,13 +289,11 @@ Gestion et maintien de la qualité des données CRM en automatisant les processu
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 📈 Web Analytics & Tracking  
-**Matomo • Power BI • Google Analytics • Dynamics 365**  
+**Domaine :** Marketing Digital (Web Analytics) | **Type :** Mission en entreprise | **Date :** 2025 
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#web-analytics-details)
 
 <details id="web-analytics-details">
-<summary><b>📖 View Details</b></summary>
-
-**Domain:** Web Analytics & BI | **Type:** Professional Project | **Date:** 2025  
+<summary><b>📖 View Details</b></summary> 
 
 🧩 **Contexte**  
 Suivi et analyse du comportement des visiteurs afin d’optimiser les actions et la performance digitale.  
@@ -329,8 +324,8 @@ Suivi et analyse du comportement des visiteurs afin d’optimiser les actions et
 
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
-### 🧾 Enquêtes de Satisfaction & NPS Analysis  
-**Power BI • Excel • Dynamics 365 • Forms / Survey Tools**  
+### 🧾 Enquêtes de Satisfaction
+**Domaine :** Expérience Client (Customer Experience Analytics) | **Type :** Mission en entreprise | **Date :** 2025
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#survey-details)
 
 <details id="survey-details">
@@ -376,7 +371,7 @@ Mise en place, collecte et analyse d’enquêtes de satisfaction (NPS, CSAT, CES
 <tr>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
-### 🏗️ Data Architecture & Pipeline Automation (Microsoft Fabric / Azure)
+### 🏗️ Architecture des données et automatisation des pipelines (Microsoft Fabric / Azure)
 **Domain:** Data Engineering | **Type:** Professional Project | **Date:** 2025  
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#fabric-pipeline-details)
 
@@ -421,7 +416,7 @@ Conception d’architectures de données end-to-end et de pipelines automatisés
 </td>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
-### 📡 Network Performance Optimization & Monitoring
+### 📡 Analyse, optimisation et supervision des performances réseau
 **Domain:** Data Engineering | **Type:** Professional Project | **Date:** 2020 - 2023  
 [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#network-monitoring-details)
 
@@ -452,7 +447,7 @@ Détection d’anomalies (handover failure, drop call, interférences, zones d�
 ![Nemo Analyze](https://img.shields.io/badge/Nemo%20Analyze-005CAB?style=flat&logo=signal&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-#### 💡 Compétences démontrées  
+#### 💡 Compétences démontrées 
 - Automatisation des pipelines de données  
 - Traitement et analyse en temps réel  
 - Détection et surveillance des anomalies réseau  
