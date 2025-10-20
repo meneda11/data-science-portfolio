@@ -211,7 +211,7 @@ Développer un système IA de suivi de la santé des colonies d’abeilles via l
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="vertical-align: top; height: 100%; padding-bottom: 20px;">
 
 ### 📧 Marketing Data Intelligence  
 
@@ -255,7 +255,7 @@ Analyse des performances emailing, segmentation et ciblage marketing, exploitati
 </details>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="vertical-align: top; height: 100%; padding-bottom: 20px;">
 
 ### 🗄️ CRM Data Quality & Automation  
 
@@ -301,7 +301,7 @@ Gestion et maintien de la qualité des données CRM en automatisant les processu
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="vertical-align: top; height: 100%; padding-bottom: 20px;">
 
 ### 📈 Web Analytics & Tracking  
 
@@ -342,7 +342,7 @@ Suivi et analyse du comportement des visiteurs afin d’optimiser les actions et
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="vertical-align: top; height: 100%; padding-bottom: 20px;">
 
 ### 🧾 Enquêtes de Satisfaction & NPS Analysis  
 
