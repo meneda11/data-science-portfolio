@@ -168,9 +168,7 @@ Mise en place d’un pipeline complet de maintenance prédictive pour anticiper 
 </details>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
 
 ### 🔬 Analyse et modélisation de données PCR en biologie moléculaire 
