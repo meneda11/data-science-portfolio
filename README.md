@@ -20,10 +20,10 @@ Comprehensive portfolio showcasing AI/ML, Data Engineering, and BI projects | Cl
 
 ### 🚀 Explore My Data Science & AI Portfolio
 
-[![🤖 AI & Machine Learning](https://img.shields.io/badge/🤖%20AI%20&%20Machine%20Learning-1E90FF?style=for-the-badge)](#-ai--machine-learning)
 [![💰 Finance - Comptabilité & Performance](https://img.shields.io/badge/💰%20Finance%20%26%20Comptabilité-228B22?style=for-the-badge)](#-finance---comptabilité--performance)
 [![📊 Marketing & CRM Analytics](https://img.shields.io/badge/📊%20Marketing%20%26%20CRM%20Analytics-FFB100?style=for-the-badge)](#-data--business-analyst--web-analytics--crm)
 [![🔧 Data Engineering](https://img.shields.io/badge/🔧%20Data%20Engineering-FF6347?style=for-the-badge)](#-data-engineering)
+[![🤖 AI & Machine Learning](https://img.shields.io/badge/🤖%20AI%20&%20Machine%20Learning-1E90FF?style=for-the-badge)](#-ai--machine-learning)
 [![🛠️ Complete Tech Stack](https://img.shields.io/badge/🛠️%20Complete%20Tech%20Stack-6A5ACD?style=for-the-badge)](#️-complete-tech-stack)
 
 </div>
