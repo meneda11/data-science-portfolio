@@ -252,7 +252,7 @@ Développement d’un système de vision par ordinateur et d’analyse multi-cap
 </tr>
 </table>
 
-## 📊 Marketing 
+## 📊 Marketing & CRM
 
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
 <tr>
@@ -414,6 +414,144 @@ Mise en place, collecte et analyse d’enquêtes de satisfaction (NPS, CSAT, CES
 </tr>
 </table>
 
+<!-- 💰 FINANCE -->
+<div class="domain-details" id="finance" style="display:none;">
+  <h3 style="text-align:center; color:var(--primary); margin-bottom:0.8rem;">
+    💰 Finance - Comptabilité & Performance
+  </h3>
+  <p class="domain-desc" style="text-align:center; color:#C9D1D9; max-width:700px; margin:0 auto 2rem auto;">
+    Projets de modélisation du risque, de reporting automatisé et d’optimisation de la performance financière 
+    pour renforcer la fiabilité, la visibilité et la prise de décision stratégique.
+  </p>
+
+  <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
+    <tr>
+      <!-- Projet 1 -->
+      <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
+        <h3>💹 Scoring du risque financier</h3>
+        <p><b>Domaine :</b> Finance Analytics | <b>Type :</b> Projet personnel | <b>Date :</b> 2025</p>
+        [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#risk-scoring-details)
+
+        <details id="risk-scoring-details">
+          <summary><b>📖 View Details</b></summary>
+
+          🧩 <b>Contexte</b>  
+          Analyse de la santé financière et du comportement de paiement des clients pour anticiper les retards et évaluer les profils à risque.  
+          Objectif : aider les équipes comptables à prioriser les relances, ajuster les stratégies de crédit et améliorer la trésorerie globale.
+
+          🏆 <b>Réalisations</b>  
+          - ✅ Construction d’un pipeline de scoring automatisé dans Dataiku DSS  
+          - ✅ Feature engineering à partir d’indicateurs comptables et de transactions  
+          - ✅ Définition de segments clients à risque via clustering et modèles prédictifs  
+          - ✅ Génération d’un rapport de scoring interactif pour la direction financière  
+
+          #### 🛠️ Tech Stack  
+          ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+          ![Dataiku DSS](https://img.shields.io/badge/Dataiku%20DSS-1A73E8?style=flat&logo=dataiku&logoColor=white)
+          ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+          ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+          #### 💡 Compétences démontrées  
+          - Modélisation du risque et scoring financier  
+          - Automatisation des analyses sous Dataiku  
+          - Reporting visuel et suivi des KPI de performance client  
+          - Collaboration entre services financiers et data  
+
+          #### 💼 Impact métier  
+          - Réduction du risque d’impayés  
+          - Meilleure anticipation des retards de paiement  
+          - Optimisation des flux de trésorerie et du portefeuille client  
+
+          #### 🔗 Liens  
+          [![GitHub](https://img.shields.io/badge/🔗%20View%20on%20GitHub-black?style=flat&logo=github)](https://github.com/meneda11/data-science-portfolio)
+        </details>
+      </td>
+
+      <!-- Projet 2 -->
+      <td width="50%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
+        <h3>📘 Analyse comptable & reporting automatisé</h3>
+        <p><b>Domaine :</b> Finance & Data Automation | <b>Type :</b> Projet personnel | <b>Date :</b> 2025</p>
+        [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#accounting-details)
+
+        <details id="accounting-details">
+          <summary><b>📖 View Details</b></summary>
+
+          🧩 <b>Contexte</b>  
+          Conception d’un tableau de bord Power BI pour un cabinet comptable fictif, intégrant les données de ventes, charges, trésorerie et performance RH.  
+          Objectif : fiabiliser la consolidation des écritures et automatiser le reporting financier pour une vision 360° du pilotage.
+
+          🏆 <b>Réalisations</b>  
+          - ✅ Création d’un modèle de données unifié (ventes, dépenses, trésorerie, RH)  
+          - ✅ Automatisation des flux d’intégration via Python et SQL  
+          - ✅ Développement d’un tableau de bord Power BI pour le suivi des marges, cash-flow et rentabilité  
+          - ✅ Calcul de KPI de performance financière (marge brute, rentabilité client, délai de clôture)  
+
+          #### 🛠️ Tech Stack  
+          ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+          ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+          ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+          ![Azure Fabric](https://img.shields.io/badge/Azure%20Fabric-107C10?style=flat&logo=microsoft&logoColor=white)
+
+          #### 💡 Compétences démontrées  
+          - Intégration et automatisation de flux comptables  
+          - Construction de modèles financiers et d’indicateurs  
+          - Visualisation et storytelling Power BI  
+          - Gouvernance et fiabilité des données  
+
+          #### 💼 Impact métier  
+          - Gain de temps sur les clôtures mensuelles  
+          - Fiabilisation des analyses et suppression des doublons Excel  
+          - Vision consolidée et dynamique pour le pilotage client  
+
+          #### 🔗 Liens  
+          [![GitHub](https://img.shields.io/badge/🔗%20View%20on%20GitHub-black?style=flat&logo=github)](https://github.com/meneda11/data-science-portfolio)
+        </details>
+      </td>
+    </tr>
+
+    <!-- Projet 3 -->
+    <tr>
+      <td colspan="2" width="100%" valign="top" style="vertical-align: top; padding: 10px; border: none;">
+        <h3>⚙️ Prédiction de défaillance industrielle</h3>
+        <p><b>Domaine :</b> Machine Learning & MLOps | <b>Type :</b> Projet académique | <b>Date :</b> 2024</p>
+        [![View Project](https://img.shields.io/badge/View-Details-blue?style=flat)](#industrial-failure-details)
+
+        <details id="industrial-failure-details">
+          <summary><b>📖 View Details</b></summary>
+
+          🧩 <b>Contexte</b>  
+          Anticipation des pannes d’équipements industriels grâce au machine learning afin d’améliorer la fiabilité des opérations et réduire les coûts d’arrêts non planifiés.
+
+          🏆 <b>Réalisations</b>  
+          - ✅ Entraînement de modèles (XGBoost, RandomForest, Logistic Regression)  
+          - ✅ Mise en place d’un pipeline MLOps avec Airflow et Docker  
+          - ✅ Suivi des performances modèles via Weights & Biases  
+          - ✅ Déploiement automatisé des modèles prédictifs  
+
+          #### 🛠️ Tech Stack  
+          ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+          ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+          ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+          ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+
+          #### 💡 Compétences démontrées  
+          - Ingénierie des features et modélisation prédictive  
+          - Orchestration et automatisation MLOps  
+          - Suivi d’expérimentations et optimisation de modèles  
+          - Déploiement continu de solutions IA industrielles  
+
+          #### 💼 Impact métier  
+          - Réduction des pannes critiques  
+          - Optimisation des coûts de maintenance  
+          - Amélioration de la fiabilité opérationnelle  
+
+          #### 🔗 Liens  
+          [![GitHub](https://img.shields.io/badge/🔗%20View%20on%20GitHub-black?style=flat&logo=github)](https://github.com/meneda11/data-science-portfolio)
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## 🔧 Data Engineering
